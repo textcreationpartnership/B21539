@@ -1,0 +1,2197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of all the adventurers in the stock of the honourable the East-India-Company, the 12th day of April, 1684 whereof those marked with a * are not capable (by their adventure) to be chosen committees.</title>
+            <author>East India Company.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 117 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21539</idno>
+            <idno type="STC">Wing E100E</idno>
+            <idno type="STC">ESTC R14934</idno>
+            <idno type="EEBO-CITATION">12719829</idno>
+            <idno type="OCLC">ocm 12719829</idno>
+            <idno type="VID">55261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 361:1b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of all the adventurers in the stock of the honourable the East-India-Company, the 12th day of April, 1684 whereof those marked with a * are not capable (by their adventure) to be chosen committees.</title>
+                  <author>East India Company.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+                  <note>Wing reel guide incorrectly lists this item with reel 352.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Registers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="list">
+                  <pb facs="tcp:55261:1" rendition="simple:additions"/>
+                  <head>A LIST OF THEIR NAMES Who by their Adventures are Capable of being Choſen COMMITTEES for the Year 1675.</head>
+                  <list>
+                     <head>A</head>
+                     <item>
+                        <hi>Sir</hi> Joſeph Aſh <hi>Kt.</hi> &amp; <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Matthew Andrews <hi>Kt.</hi>
+                     </item>
+                     <item>William Allington <hi>Eſq;.</hi>
+                     </item>
+                     <item>Joſeph Alſtone <hi>Eſq;.</hi>
+                     </item>
+                     <item>William Atwood <hi>Eſq;.</hi>
+                     </item>
+                     <item>Francis Archer <hi>Eſq;.</hi>
+                     </item>
+                     <item>George Arnold <hi>Eſq;.</hi>
+                     </item>
+                     <item>William Allen</item>
+                     <item>Thomas Adrian</item>
+                  </list>
+                  <list>
+                     <head>B</head>
+                     <item>
+                        <hi>The Right Honourable</hi> George</item>
+                     <item>
+                        <hi>Lord</hi> Berkley</item>
+                     <item>
+                        <hi>Sir</hi> Sam. Barnardiſton <hi>Kt.</hi> &amp; <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Brownloe <hi>Kt.</hi> &amp; <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Banks <hi>Kt.</hi> &amp; <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Francis Burdet <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Thomas Blud worth <hi>Kt.</hi>
+                     </item>
+                     <item>John Bathurſt <hi>Eſq;.</hi>
+                     </item>
+                     <item>Robert Burdet <hi>Eſq;.</hi>
+                     </item>
+                     <item>Richard Booth <hi>Eſq;.</hi>
+                     </item>
+                     <item>Edward Bolle <hi>Eſq;.</hi>
+                     </item>
+                     <item>Benjamin Barron <hi>Eſq;.</hi>
+                     </item>
+                     <item>Richard Beckford <hi>Eſq;.</hi>
+                     </item>
+                     <item>Heary Barnard <hi>Eſq;.</hi>
+                     </item>
+                     <item>James Burkin <hi>Eſq;.</hi>
+                     </item>
+                     <item>James Burton <hi>Eſq;.</hi>
+                     </item>
+                     <item>Matthew Bateman</item>
+                     <item>Jacob Bonnell</item>
+                     <item>Chriſtopher Boone</item>
+                     <item>
+                        <hi>Captain</hi> Robert Browne</item>
+                     <item>
+                        <hi>Captain</hi> John Broeckhoven</item>
+                     <item>John Bull</item>
+                     <item>William Bulkley</item>
+                     <item>Edward Bovery</item>
+                     <item>Thomas Bretton</item>
+                     <item>Moſes Bathurſt</item>
+                     <item>Richard Bagnall</item>
+                     <item>Edward Bringhurſt</item>
+                  </list>
+                  <list>
+                     <head>C</head>
+                     <item>
+                        <hi>Sir</hi> Richard Chiverton <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Francis Clark <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Thomas Chambers <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> William Coventry <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Thomas Cullum <hi>Kt.</hi>
+                     </item>
+                     <item>James Clitherow <hi>Eſq;.</hi>
+                     </item>
+                     <item>Thomas Chown <hi>Eſq;.</hi>
+                     </item>
+                     <item>Joſiah Child <hi>Eſq;.</hi>
+                     </item>
+                     <item>John Cooke</item>
+                     <item>Charles Chamberlan</item>
+                     <item>Robert Childcot</item>
+                     <item>Mr. Joſeph Collier</item>
+                     <item>Benjamin Collier</item>
+                     <item>Nathaniel Collier</item>
+                     <item>Benjamin Coles</item>
+                     <item>Thomas Canham</item>
+                     <item>Joſeph Chamberlayn</item>
+                     <item>
+                        <hi>Doctor</hi> Joſeph Colſtone</item>
+                     <item>John Cholmley</item>
+                     <item>William Clarke</item>
+                     <item>John Culling</item>
+                  </list>
+                  <list>
+                     <head>D</head>
+                     <item>Michael Daviſon <hi>Eſq;.</hi>
+                     </item>
+                     <item>Benjamin Dethick <hi>Eſq;.</hi>
+                     </item>
+                     <item>William Daniel <hi>Eſq;.</hi>
+                     </item>
+                     <item>John Doget <hi>Eſq;.</hi>
+                     </item>
+                     <item>Joſeph Dawſon <hi>Eſq;.</hi>
+                     </item>
+                     <item>Peter Daniel</item>
+                     <item>Alvaro Dacoſta</item>
+                     <item>Abraham Dolins</item>
+                     <item>Andrew Duncan</item>
+                     <item>Edmond Detnick</item>
+                     <item>William Delawood</item>
+                     <item>Robert Deluna</item>
+                     <item>Thomas Davall</item>
+                     <item>Iſaac Delillers</item>
+                  </list>
+                  <list>
+                     <head>E</head>
+                     <item>
+                        <hi>Sir</hi> James Edwards <hi>Kt.</hi>
+                     </item>
+                     <item>Humph. Edwin</item>
+                  </list>
+                  <list>
+                     <head>F</head>
+                     <item>
+                        <hi>Sir</hi> Thomas Foote <hi>Kt.</hi> &amp; <hi>Bar.</hi>
+                     </item>
+                     <item>Edward Franklyn</item>
+                     <item>Chriſtopher Foſter</item>
+                     <item>Thomas Frampton</item>
+                     <item>Abraham Fothergill</item>
+                     <item>Thomas Farrington</item>
+                  </list>
+                  <list>
+                     <head>G</head>
+                     <item>John Gould <hi>Eſq;.</hi>
+                     </item>
+                     <item>John Godſcall</item>
+                     <item>John Goodier</item>
+                     <item>Thomas Green</item>
+                     <item>John Gardner</item>
+                     <item>John Gunſtone</item>
+                     <item>Henry Griffith</item>
+                     <item>Philip Graves</item>
+                     <item>Edward Grace</item>
+                  </list>
+                  <list>
+                     <head>H</head>
+                     <item>
+                        <hi>Sir</hi> Nathaniel Herne <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Matthew Holworthy <hi>Kt.</hi>
+                     </item>
+                     <item>John Hobby <hi>Eſq;.</hi>
+                     </item>
+                     <item>Richard Hutchinſon <hi>Eſq;.</hi>
+                     </item>
+                     <item>James Houblon <hi>junior Eſq;.</hi>
+                     </item>
+                     <item>John Harris</item>
+                     <item>Walter Hampton</item>
+                     <item>Edward Hopegood</item>
+                     <item>Thomas Hawkes</item>
+                     <item>John Holworthy</item>
+                     <item>Humphrey Holcomb</item>
+                     <item>Joſeph Herne</item>
+                     <item>Richard Hutchinſon <hi>junior</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>I</head>
+                     <item>
+                        <hi>Sir</hi> Arthur Ingram <hi>Kt.</hi>
+                     </item>
+                     <item>John Jollife <hi>Eſq;.</hi>
+                     </item>
+                     <item>Henry Johnſon <hi>Eſq;.</hi>
+                     </item>
+                     <item>Edward Jackſon ſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>or</item>
+                     <item>William Jarret <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                  </list>
+                  <list>
+                     <head>K</head>
+                     <item>
+                        <hi>Sir</hi> Jonathan Keat <hi>Kt.</hi> &amp; <hi>Bar.</hi>
+                     </item>
+                     <item>George Keat <hi>Eſq;.</hi>
+                     </item>
+                     <item>Francis Knight <hi>Eſq;.</hi>
+                     </item>
+                     <item>Robert Knightly</item>
+                     <item>Randal Knipe</item>
+                  </list>
+                  <list>
+                     <head>L</head>
+                     <item>Philip <hi>Lord Viſcount</hi> Liſle</item>
+                     <item>
+                        <hi>Sir</hi> John Lethieullier <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Kingſmill Lucy <hi>Bar.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Lawrence <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Peter Leare <hi>Kt.</hi>
+                     </item>
+                     <item>Peter de Lanoy <hi>Eſq;.</hi>
+                     </item>
+                     <item>John Lane <hi>Eſq;.</hi>
+                     </item>
+                     <item>Richard Lant <hi>Eſq;.</hi>
+                     </item>
+                     <item>Tho. Lenthall <hi>Eſq;.</hi>
+                     </item>
+                     <item>James Leaver</item>
+                     <item>Godfry Lee <hi>junior</hi>
+                     </item>
+                     <item>Nathaniel Letton</item>
+                     <item>Simon Lewis</item>
+                     <item>Rob. Lightfoot</item>
+                  </list>
+                  <list>
+                     <head>M</head>
+                     <item>
+                        <hi>Sir</hi> John Moore <hi>Kt.</hi>
+                     </item>
+                     <item>Samuel Moyer <hi>Eſq;.</hi>
+                     </item>
+                     <item>William Meggs <hi>Eſq;.</hi>
+                     </item>
+                     <item>Nicholas Morrice <hi>Eſq;.</hi>
+                     </item>
+                     <item>William Moſes <hi>Eſq;.</hi>
+                     </item>
+                     <item>Richard Mounteney <hi>Eſq;.</hi>
+                     </item>
+                     <item>Jaſper Mauditt</item>
+                     <item>James Maurois</item>
+                     <item>
+                        <hi>Collonel</hi> John Mews</item>
+                     <item>John Morden</item>
+                     <item>John Maſcall</item>
+                     <item>Samuel Moyer <hi>junior</hi>
+                     </item>
+                     <item>Humphrey Morrice</item>
+                     <item>Thomas Murthwaite</item>
+                     <item>
+                        <hi>Captain</hi> Lawrence Moyer</item>
+                     <item>John Chriſtopher Mayerne</item>
+                     <item>Lawrence Martell</item>
+                  </list>
+                  <list>
+                     <head>N</head>
+                     <item>William Northey <hi>Eſq;.</hi>
+                     </item>
+                     <item>Humphrey Nicholſon</item>
+                     <item>Jeremy Norrice</item>
+                     <item>Hugh Norris</item>
+                  </list>
+                  <list>
+                     <head>O</head>
+                     <item>John O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en <hi>Eſq;.</hi>
+                     </item>
+                     <item>Juſtus Otgher</item>
+                     <item>Peter Otgher</item>
+                     <item>Abraham Otgher <hi>junior</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>P</head>
+                     <item>
+                        <hi>Sir</hi> William Peake <hi>Kt.</hi>
+                     </item>
+                     <item>Charles Pitfield <hi>Eſq;.</hi>
+                     </item>
+                     <item>George Perrier <hi>Eſq;.</hi>
+                     </item>
+                     <item>Thomas Papillon <hi>Eſq;.</hi>
+                     </item>
+                     <item>John Paige</item>
+                     <item>Richard Poulter</item>
+                     <item>Joſeph Prickman</item>
+                     <item>Peter Proby</item>
+                     <item>Samuel Philpe</item>
+                     <item>William Potter</item>
+                     <item>Edward Pearce</item>
+                     <item>Paul Priaulx</item>
+                     <item>William Parker</item>
+                  </list>
+                  <list>
+                     <head>R</head>
+                     <item>
+                        <hi>Sir</hi> John Robinſon <hi>Kt.</hi> &amp; <hi>Barr.</hi>
+                     </item>
+                     <item>Robert Read <hi>Eſq;.</hi>
+                     </item>
+                     <item>Edward Rudge <hi>Eſq;.</hi>
+                     </item>
+                     <item>Daniel Rawlinſon</item>
+                     <item>Edward Rudge</item>
+                     <item>John Richards</item>
+                  </list>
+                  <list>
+                     <head>S</head>
+                     <item>Henry Spurſtow <hi>Eſq;.</hi>
+                     </item>
+                     <item>William Sherrington <hi>Eſq;.</hi>
+                     </item>
+                     <item>William Salmon <hi>Eſq;.</hi>
+                     </item>
+                     <item>John Sweeting <hi>ſenior</hi>
+                     </item>
+                     <item>George Snell</item>
+                     <item>William Sedgwick</item>
+                     <item>Daniel Sheldon</item>
+                     <item>John Stock</item>
+                     <item>Thomas Shatterden</item>
+                     <item>James Southerby</item>
+                     <item>Robert Stiles</item>
+                     <item>Benjamin Shute</item>
+                     <item>Ephraim Skinner</item>
+                  </list>
+                  <list>
+                     <head>T</head>
+                     <item>
+                        <hi>Sir</hi> William Thomſon <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> William Turner <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Henry Tulce <hi>Kt.</hi>
+                     </item>
+                     <item>Maurice Thomſon <hi>Eſq;.</hi>
+                     </item>
+                     <item>Robert Thomſon <hi>Eſq;.</hi>
+                     </item>
+                     <item>Thomas Tomlins <hi>Eſq;.</hi>
+                     </item>
+                     <item>Samuel Thomſon <hi>Eſq;.</hi>
+                     </item>
+                     <item>Charles Thorrold <hi>Eſq;.</hi>
+                     </item>
+                     <item>Jeffery Thomas <hi>Eſq;.</hi>
+                     </item>
+                     <item>
+                        <hi>Collonel</hi> George Thomſon</item>
+                     <item>Giles Travers</item>
+                     <item>Stephen Thornely</item>
+                     <item>John Turner</item>
+                     <item>Robert Thirkettle</item>
+                     <item>Richard Turner</item>
+                     <item>Thomas Tyte</item>
+                     <item>Chriſtopher Tomlinſon</item>
+                     <item>Francis Tyſſen</item>
+                     <item>
+                        <hi>Doctor</hi> Joſeph Taylor</item>
+                     <item>John Talbott</item>
+                     <item>Benjamin Thorowgood</item>
+                  </list>
+                  <list>
+                     <head>V</head>
+                     <item>William Vanham <hi>Eſq;.</hi>
+                     </item>
+                     <item>John Upton <hi>Eſq;.</hi>
+                     </item>
+                     <item>Gilbert Upton</item>
+                  </list>
+                  <list>
+                     <head>W</head>
+                     <item>
+                        <hi>Sir</hi> Stephen White <hi>Kt.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Edward Winter <hi>Kt.</hi>
+                     </item>
+                     <item>Chriſtopher Willoughby <hi>Eſq;.</hi>
+                     </item>
+                     <item>Rowland Wynn <hi>Eſq;.</hi>
+                     </item>
+                     <item>Francis Warner <hi>Eſq;.</hi>
+                     </item>
+                     <item>Thomas Winter <hi>Eſq;.</hi>
+                     </item>
+                     <item>Roger Whitley <hi>Eſq;.</hi>
+                     </item>
+                     <item>John Wood</item>
+                     <item>Thomas Wood</item>
+                     <item>Andrew Weſt</item>
+                     <item>William Wildigoes</item>
+                     <item>Thomas Wilſon</item>
+                     <item>James Ward</item>
+                     <item>Robert Whittingham</item>
+                     <item>George Willoughby</item>
+                  </list>
+                  <div type="list">
+                     <head>The Names of the Governor, Deputy, and 24 Committees elected in <hi>April</hi> 1674, together with their reſpective Ap<g ref="char:EOLhyphen"/>pearances, there being 116 Courts to the Firſt of <hi>April</hi> 1675.</head>
+                     <list>
+                        <item>Sir <hi>Nathaniel Herne</hi> Governor, Preſent 107</item>
+                        <item>Major <hi>Robert Thomſon</hi> Deputy 109</item>
+                     </list>
+                     <list>
+                        <item>R. Hon. <hi>George</hi> Ld. <hi>Berkeley</hi> Preſent 68</item>
+                        <item>Sir <hi>John Banks</hi> Baronet 101</item>
+                        <item>Sir <hi>Sam. Barnardiſton</hi> Bar. 73</item>
+                        <item>
+                           <hi>John Bathurſt</hi> Eſq;. 81</item>
+                        <item>Mr. <hi>Chriſtopher Boone</hi> 107</item>
+                        <item>Capt. <hi>John Broeckhoven</hi> 112</item>
+                        <item>Sir <hi>Francis Clarke</hi> Kt. 102</item>
+                        <item>
+                           <hi>Joſia Child</hi> Eſq;. 102</item>
+                        <item>
+                           <hi>Michael Daviſon</hi> Eſq;. 110</item>
+                        <item>
+                           <hi>John Doget</hi> Eſq;. 110</item>
+                        <item>
+                           <hi>John Hobby</hi> Eſq;. 97</item>
+                        <item>
+                           <hi>Richard Hutchinſon</hi> Eſq;. 113</item>
+                        <item>
+                           <hi>John Jollife</hi> Eſq;. 106</item>
+                        <item>Sir <hi>John Moore</hi> Kt. 105</item>
+                        <item>
+                           <hi>Samuel Moyer</hi> Eſq;. 116</item>
+                        <item>Mr. <hi>John Morden</hi> 96</item>
+                        <item>Mr. <hi>John Paige</hi> 108</item>
+                        <item>Mr. <hi>Edward Rudge</hi> 114</item>
+                        <item>Mr. <hi>Daniel Sheldon</hi> 87</item>
+                        <item>Sir <hi>William Thomſon</hi> Kt. 81</item>
+                        <item>
+                           <hi>Maurice Thomſon</hi> Eſq;. 77</item>
+                        <item>
+                           <hi>Charles Thorold</hi> Eſq;. 97</item>
+                        <item>Sir <hi>Steven White</hi> Kt. 77</item>
+                        <item>
+                           <hi>Rowland Wynn</hi> Eſq;. 100</item>
+                     </list>
+                     <pb facs="tcp:55261:2" rendition="simple:additions"/>
+                     <pb facs="tcp:55261:2"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="list">
+                  <pb facs="tcp:55261:3" rendition="simple:additions"/>
+                  <pb facs="tcp:55261:3"/>
+                  <head>A LIST OF THE NAMES OF ALL THE ADVENTURERS In the STOCK of the Honourable the <hi>Eaſt-India-Company,</hi> the 12th, day of <hi>April,</hi> 1684. Whereof thoſe Marked with a * are not capable (by their Adventure) to be choſen Committees.</head>
+                  <list>
+                     <head>A.</head>
+                     <item>Sir Joſeph Aſh <hi>Knt and Baronet</hi>
+                     </item>
+                     <item>Sir Matthew Andrews <hi>Knt</hi>
+                     </item>
+                     <item>Richard Aley <hi>Eſq;</hi>
+                     </item>
+                     <item>George Arnold <hi>Eſq;</hi>
+                     </item>
+                     <item>William Allen <hi>Eſq;</hi>
+                     </item>
+                     <item>William Allington <hi>Eſq; Deceaſed.</hi>
+                     </item>
+                     <item>Thomas Auſtin <hi>Eſq;</hi>
+                     </item>
+                     <item>Mr William Atwood</item>
+                     <item>Mr. Edward Adams</item>
+                     <item>Mrs. Grace Andrews</item>
+                     <item>* Sir Stephen Anderſon <hi>Baronet</hi>
+                     </item>
+                     <item>* Mr. Francis Ammonet <hi>Deceaſed</hi>
+                     </item>
+                     <item>* Dr. William Aglionby</item>
+                     <item>* Mr. Edward Anthony</item>
+                     <item>* Mr. Francis Archer</item>
+                     <item>* Mrs. Suſan Archer</item>
+                     <item>* Mrs. Elizabeth Allen</item>
+                  </list>
+                  <list>
+                     <head>B.</head>
+                     <item>His Grace the Duke of Beauford</item>
+                     <item>The Right Honourable George</item>
+                     <item>Earl of Berkley</item>
+                     <item>Sir John Banks <hi>Baronet</hi>
+                     </item>
+                     <item>Sir Benj. Bathurſt <hi>Knt &amp; Alderm.</hi>
+                     </item>
+                     <item>
+                        <hi>Honourable</hi> Charles Berty <hi>Eſq;</hi>
+                     </item>
+                     <item>Sir Thomas Bludworth <hi>Deceaſed.</hi>
+                     </item>
+                     <item>Sir John Brownlow <hi>Knt &amp; Bar.</hi>
+                     </item>
+                     <item>Sir John Buckworth <hi>Knt</hi>
+                     </item>
+                     <item>Sir Theophilus Biddulph <hi>Deceaſed</hi>
+                     </item>
+                     <item>Sir Francis Burdet</item>
+                     <item>John Bence <hi>Eſq;</hi>
+                     </item>
+                     <item>James Burkin <hi>Eſq; Deceaſed.</hi>
+                     </item>
+                     <item>James Butler <hi>Eſq;</hi>
+                     </item>
+                     <item>Edward Bovery <hi>Eſq;</hi>
+                     </item>
+                     <item>Caleb Banks <hi>Eſq;</hi>
+                     </item>
+                     <item>Mr. Chriſtopher Boon</item>
+                     <item>Mr. Roger Braddyl</item>
+                     <item>Mr. Thomas Browne</item>
+                     <item>Mr. Thomas Boſtock</item>
+                     <item>Mr. Peter Bulkley</item>
+                     <item>Mr. Thomas Boon</item>
+                     <item>Mr. Robert Boddington</item>
+                     <item>Mr. John Barksdale</item>
+                     <item>Mrs. Mary Bonfoy</item>
+                     <item>* <hi>The Honourable the Lady</hi> Henrieta Berkley</item>
+                     <item>* <hi>The Honourable</hi> Rob. Boyle <hi>Eſq;</hi>
+                     </item>
+                     <item>* Sir William Barkham <hi>Barronet</hi>
+                     </item>
+                     <item>* Sir Thomas Bide <hi>Knt</hi>
+                     </item>
+                     <item>* Sir Francis Bridgeman <hi>Knt</hi>
+                     </item>
+                     <item>* James Barron <hi>Eſq;</hi>
+                     </item>
+                     <item>* Tho. Bromefield <hi>Eſq; Deceaſed.</hi>
+                     </item>
+                     <item>* Edward Boſcowen <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas Browne <hi>Eſq;</hi>
+                     </item>
+                     <item>* John Bultecle <hi>Eſq;</hi>
+                     </item>
+                     <item>* Dr. Gilbert Burnet</item>
+                     <item>* Mr. John Bull</item>
+                     <item>* Mr. Joas Bateman</item>
+                     <item>* Mr. Robert Blackborn</item>
+                     <item>* Mr. Leonard Bates</item>
+                     <item>* Capt. Arthur Bayly <hi>Deceaſed</hi>
+                     </item>
+                     <item>* Mr. William Browne</item>
+                     <item>* Mr. Thomas Boteler</item>
+                     <item>* Mr. John Beare</item>
+                     <item>* Mr. William Berman</item>
+                     <item>* Mr. Thomas Barret</item>
+                     <item>* Mr. William Blackmore</item>
+                     <item>* Mr. Abraham Babbington</item>
+                     <item>* Mr. William Beeke <hi>Deceaſed</hi>
+                     </item>
+                     <item>* Mr. William Beake <hi>Deceaſed</hi>
+                     </item>
+                     <item>* Mr. Robert Brimley</item>
+                     <item>* Mr. William Brain</item>
+                     <item>* Mr. Edward Bringhurſt</item>
+                     <item>* Mr. Robert Brittan</item>
+                     <item>* Mr. Richard Browne</item>
+                     <item>* Mr. Edmond Bury</item>
+                     <item>* Mr. John Bocket</item>
+                     <item>* Mr. James Burkin <hi>Jun.</hi>
+                     </item>
+                     <item>* Mr. John Borret</item>
+                     <item>* Mr. John Bradley</item>
+                     <item>* Mr. Edward Byrcke</item>
+                     <item>* Mr. John Bernard</item>
+                     <item>* Mr. Nicholas Builley</item>
+                     <item>* Mr. John Baker</item>
+                     <item>* Mr. John Bridger</item>
+                     <item>* Mr. Henry Boone</item>
+                     <item>* Mrs. Mary Boone</item>
+                     <item>* Mrs. Ann Borrodale</item>
+                     <item>* Mrs. Elizabeth Blackman</item>
+                  </list>
+                  <list>
+                     <head>C.</head>
+                     <item>Sir Joſia Child <hi>Baronet</hi>
+                     </item>
+                     <item>Sir Job Charlton <hi>Knt</hi>
+                     </item>
+                     <item>
+                        <hi>Ditto in truſt for</hi> Sir Francis Willoughby</item>
+                     <item>
+                        <hi>Ditto in truſt for</hi> Tho. Willoughby, <hi>Eſq</hi>
+                     </item>
+                     <item>Sir Thomas Chambers</item>
+                     <item>Sir William Coventrie, <hi>Knt.</hi>
+                     </item>
+                     <item>Sir Joſeph Colſtone, <hi>Knt.</hi>
+                     </item>
+                     <item>Sir John Chardin, <hi>Knt.</hi>
+                     </item>
+                     <item>Thomas Chowne, <hi>Eſq;</hi>
+                     </item>
+                     <item>John Creed, <hi>Eſq;</hi>
+                     </item>
+                     <item>Thomas Criſpe, <hi>Eſq;</hi>
+                     </item>
+                     <item>Col. John Clerke</item>
+                     <item>Mr. Thomas Canham</item>
+                     <item>Mr. Charles Chambrelan</item>
+                     <item>Mr. John Cooke</item>
+                     <item>Mr. Thomas Cooke <hi>Merchant</hi>
+                     </item>
+                     <item>Mr. Thomas Cooke <hi>Goldſmith</hi>
+                     </item>
+                     <item>Mr. John Cudworth</item>
+                     <item>Mr. John Carter</item>
+                     <item>Mr. William Cranmer</item>
+                     <item>Mr. Joſeph Chamberlaine</item>
+                     <item>Mr. John Culling</item>
+                     <item>Mr. Benjamin Collier</item>
+                     <item>Mr. Nathaniel Collier</item>
+                     <item>Mr. Joſeph Collier</item>
+                     <item>Mrs. Elizabeth Coles</item>
+                     <item>Mr. Thomas Cole</item>
+                     <item>* Sir Nicholas Carew<g ref="char:punc">▪</g> 
+                        <hi>Knt</hi>
+                     </item>
+                     <item>* Mrs. Eſther Chambrelan</item>
+                     <item>* Mrs. Suſanna Critchlow</item>
+                     <item>* Mrs. Margaret Child</item>
+                     <item>* Mrs. Ann Clarke</item>
+                     <item>* Mr. David Clarke</item>
+                     <item>* Mrs. Mary Clarke</item>
+                     <item>* Mr. John Clarke</item>
+                     <item>* Mr. John Carter, <hi>Grocer.</hi>
+                     </item>
+                     <item>* Mr. Richard Creede</item>
+                     <item>* Mr. John Cliſſald, <hi>Deceaſed.</hi>
+                     </item>
+                     <item>* Mr. John Child</item>
+                     <item>* Mr. Robert Coke</item>
+                     <item>* Mr. Norton Curtis</item>
+                     <item>* Mr. Samuel Criſpe</item>
+                     <item>* Mr. Edward Cox</item>
+                     <item>* John Cudworth <hi>Eſq; Deceaſed</hi>
+                     </item>
+                     <item>* Dr. Ralph Cudworth</item>
+                     <item>* Mr. Thomas Cudworth</item>
+                     <item>* Mr. Samuel Cudworth</item>
+                     <item>* Mr. Charles Coney</item>
+                     <item>* Mr. Thomas Crawley</item>
+                     <item>* Mr. John Chambers</item>
+                     <item>* Mr. Jacob Cox</item>
+                     <item>* Mr. James Cumber</item>
+                  </list>
+                  <list>
+                     <head>D.</head>
+                     <item>Sir Thomas Daval <hi>Knt.</hi>
+                     </item>
+                     <item>Sir Robert Duckenfield <hi>Knt.</hi>
+                     </item>
+                     <item>Peter Daniel <hi>Eſq; Alderman</hi>
+                     </item>
+                     <item>Samuel Daſhwood <hi>Eſq; Alderman</hi>
+                     </item>
+                     <item>Francis Daſhwood <hi>Eſq;</hi>
+                     </item>
+                     <item>John Duboice <hi>Eſq;</hi>
+                     </item>
+                     <item>Charles Duncomb <hi>Eſq;</hi>
+                     </item>
+                     <item>Mr. Robert Deluna</item>
+                     <item>Mr. William Delawood</item>
+                     <item>Mr. Edmond Dethick</item>
+                     <item>Mr. Benjamin Dethick</item>
+                     <item>Mr. Andrew Duncan</item>
+                     <item>Mr. Abraham Dolins</item>
+                     <item>Mr. Alvaro Dacoſta</item>
+                     <item>Mr. Francis D'Liz</item>
+                     <item>Mrs. Alice Doggett</item>
+                     <item>Mrs. Ann Delanoy</item>
+                     <item>Mrs. Judith Daviſon</item>
+                     <item>* <hi>Right Hon.</hi> Charles <hi>L.</hi> Durſley</item>
+                     <item>* <hi>Dame</hi> Ann Dethick</item>
+                     <item>* Sir Anthony Deane <hi>Knt.</hi>
+                     </item>
+                     <item>* Sir Theodore De Vaux</item>
+                     <item>* William Daniel <hi>Eſq;</hi>
+                     </item>
+                     <item>* Joſeph Dawſon <hi>Eſq;</hi>
+                     </item>
+                     <item>* John Dowel <hi>Eſq;</hi>
+                     </item>
+                     <item>* John Danvers <hi>Eſq;</hi>
+                     </item>
+                     <item>* Mr. Joſia Dewey</item>
+                     <item>* Mr. Edmond Doughty</item>
+                     <item>* Mr. Daniel Dover</item>
+                     <item>* Mr. James Dover</item>
+                     <item>* Mr. John Drigue</item>
+                     <item>* <gap reason="illegible" resp="#MURP" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                     </item>
+                     <pb facs="tcp:55261:4"/>
+                     <item>* Mrs. Ann Daval</item>
+                     <item>* Mrs. Mary Da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iel</item>
+                     <item>* Mrs. Hannah Davy</item>
+                  </list>
+                  <list>
+                     <head>E.</head>
+                     <item>Sir James Edwards</item>
+                     <item>Mr Humphrey Edwin</item>
+                     <item>* Giles Evre <hi>Eſq;</hi>
+                     </item>
+                     <item>* Mr. William Edwards</item>
+                     <item>* Mr. John Elwick</item>
+                  </list>
+                  <list>
+                     <head>F.</head>
+                     <item>Sir John Frederick <hi>Knt</hi>
+                     </item>
+                     <item>Sir Thomas Foot <hi>Knt</hi>
+                     </item>
+                     <item>Thomas Frederick <hi>Eſq;</hi>
+                     </item>
+                     <item>Mr. William Finch <hi>Deceaſed</hi>
+                     </item>
+                     <item>Mr. Chriſtopher Foſter</item>
+                     <item>Mr. Abraham Fothergil</item>
+                     <item>Mr. William Faſhion</item>
+                     <item>* John Foſter <hi>Eſq;</hi>
+                     </item>
+                     <item>* Richard Freeman <hi>Eſq;</hi>
+                     </item>
+                     <item>* Smith Fleetwood <hi>Eſq;</hi>
+                     </item>
+                     <item>* Mr. Tho. Frampton <hi>Deceaſed</hi>
+                     </item>
+                     <item>* Mr. Andrew Franklyn</item>
+                     <item>* Mr. Edward Fenwick</item>
+                     <item>* Mr. John Fiſher</item>
+                     <item>* Mr. Robert Fellows</item>
+                     <item>* Mr. William Frier</item>
+                     <item>* Mrs. Sarah Flexney</item>
+                     <item>* Mr. Joſeph Finch</item>
+                  </list>
+                  <list>
+                     <head>G.</head>
+                     <item>Sir Gilbert Gerrard <hi>Knt.</hi>
+                     </item>
+                     <item>Sir William Goulſton <hi>Knt.</hi>
+                     </item>
+                     <item>Sir William Godolphin <hi>Knt.</hi>
+                     </item>
+                     <item>John Goodier <hi>Eſq;</hi>
+                     </item>
+                     <item>Mr. Francis Gosfright</item>
+                     <item>Mr. Thomas Gray</item>
+                     <item>Mr. Philip Grave <hi>Deceaſed</hi>
+                     </item>
+                     <item>Mr. Richard Goodal</item>
+                     <item>Mr. John Gunſton</item>
+                     <item>Mr. Edward Grace.</item>
+                     <item>Mrs. Suſan Greene</item>
+                     <item>Mrs. Judith Gould</item>
+                     <item>* William George <hi>Gent.</hi>
+                     </item>
+                     <item>* Richard Graham <hi>Eſq;</hi>
+                     </item>
+                     <item>* Henry Gray <hi>Eſq; Deceaſed</hi>
+                     </item>
+                     <item>* <hi>Dr.</hi> Charles Goodall</item>
+                     <item>* Mr. Henry Godolphin</item>
+                     <item>* Mr. George Gosſright</item>
+                     <item>* Mr. Jacob Garrard</item>
+                     <item>* Mr. John Gardner</item>
+                     <item>* Mr. John Godſcal</item>
+                     <item>* Mr. Michael Godfrey</item>
+                     <item>* Mr. Henry Griffith</item>
+                     <item>* Mr. Thomas Glover</item>
+                     <item>* Mr. Theophilus Gale</item>
+                     <item>* Mr. George Gifford</item>
+                     <item>* Mr. Henry Gregory</item>
+                     <item>* Mr. Edward Gould</item>
+                     <item>* Mr. George Grove</item>
+                     <item>* Mr. John Greene.</item>
+                     <item>* Mr. Robert Greene</item>
+                     <item>* Mr. Anthony Gomeſſerra</item>
+                     <item>* Mr. Jaques Gonſales</item>
+                     <item>* Mrs. Ann Grave</item>
+                     <item>* Mrs. Mary Good</item>
+                  </list>
+                  <list>
+                     <head>H.</head>
+                     <item>Sir Matthew Holworthy <hi>Knt. Dec.</hi>
+                     </item>
+                     <item>Sir Nathaniel Herne <hi>Knt. Dec.</hi>
+                     </item>
+                     <item>Sir Roger Hill <hi>Knt.</hi>
+                     </item>
+                     <item>Richard Hutchinſon <hi>Eſq;</hi>
+                     </item>
+                     <item>John Herbert <hi>Eſq;</hi>
+                     </item>
+                     <item>John Howland <hi>Eſq;</hi>
+                     </item>
+                     <item>Edward Hopegood <hi>Eſq; Deceaſed.</hi>
+                     </item>
+                     <item>Mr. Joſeph Herne</item>
+                     <item>Mr. John Holworthy</item>
+                     <item>Mr. John Hall</item>
+                     <item>Mr. Robert Huckle</item>
+                     <item>John Huniades <hi>Gent.</hi>
+                     </item>
+                     <item>Mr. Peter Henriques</item>
+                     <item>
+                        <gap reason="illegible" resp="#MURP" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                     </item>
+                     <item>* Peter Hasbert <hi>Eſq;</hi>
+                     </item>
+                     <item>* Henry Hall <hi>Eſq;</hi>
+                     </item>
+                     <item>* William Hooker <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas Henſhaw <hi>Eſq;</hi>
+                     </item>
+                     <item>* <hi>Dr.</hi> Baldwin Hamey</item>
+                     <item>* Mr. Iſaac Houblon</item>
+                     <item>* Mr. Nathaniel Hunter</item>
+                     <item>* Mr. Thomas Hobſon</item>
+                     <item>* <hi>Dr.</hi> Francis Hungerford</item>
+                     <item>* Mr. Claude Haies</item>
+                     <item>* Mr. John Hall <hi>Deceaſed</hi>
+                     </item>
+                     <item>* Mr. Thomas Hancox</item>
+                     <item>* Mr. Nathaniel Hawes</item>
+                     <item>* Mr. Peter Hasbert</item>
+                     <item>* Mr. Thomas Hatton</item>
+                     <item>* Mr. Henry Hampſon</item>
+                     <item>* Mr. Richard Humphries</item>
+                     <item>* Mr. Nicholas Hayward</item>
+                     <item>* Mr. Francis Hacker</item>
+                     <item>* Mr. Thomas Hall</item>
+                     <item>* Mr. John Hill</item>
+                     <item>* Mr. Henry Hickford <hi>Deceaſed.</hi>
+                     </item>
+                     <item>* Mr. Nathan Heckford</item>
+                     <item>* Mr. Samuel Harris</item>
+                     <item>* <hi>Dame</hi> Elizabeth Hooke</item>
+                     <item>* Mrs. Marry Hobby</item>
+                     <item>* Mrs. Angel Hampton</item>
+                     <item>* Mrs. Alice Hawks</item>
+                     <item>* Mrs. Margaret Harris</item>
+                     <item>* Mrs. Elizabeth Hitchcott</item>
+                     <item>* Mrs. Helena Heycock</item>
+                     <item>* Mrs. Sarah Hickford</item>
+                     <item>* Mr. James Hudſon</item>
+                  </list>
+                  <list>
+                     <head>I.</head>
+                     <item>Sir Henry Johnſon <hi>Deceaſed</hi>
+                     </item>
+                     <item>Henry Johnſon <hi>Eſq;</hi>
+                     </item>
+                     <item>John Jolliffe <hi>Eſq; Deceaſed.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr.</hi> William Jarret</item>
+                     <item>
+                        <hi>Mr.</hi> Abraham Jacob</item>
+                     <item>
+                        <hi>Mr.</hi> Jeffery Jefferies</item>
+                     <item>
+                        <hi>Dame</hi> Ann Ingram</item>
+                     <item>* <hi>Mr.</hi> Roger Jackſon</item>
+                     <item>* <hi>Mr.</hi> Peter Jackſon</item>
+                     <item>* <hi>Mr.</hi> Richard Jackſon</item>
+                     <item>* <hi>Mr.</hi> Edward Ingram</item>
+                  </list>
+                  <list>
+                     <head>K.</head>
+                     <item>Sir Robert Knightly</item>
+                     <item>George Keate <hi>Eſq; Deceaſed</hi>
+                     </item>
+                     <item>
+                        <hi>Mr.</hi> Randal Knipe</item>
+                     <item>* Samuel Kerridge <hi>Eſq;</hi>
+                     </item>
+                     <item>* <hi>Mrs.</hi> Mary King</item>
+                     <item>* <hi>Mr.</hi> Edward Keling</item>
+                  </list>
+                  <list>
+                     <head>L.</head>
+                     <item>
+                        <hi>The Right Honourable</hi> Philip <hi>Earl of</hi> Leiceſter</item>
+                     <item>Sir John Lethieulier</item>
+                     <item>Sir John <hi>&amp;</hi> Sam. Lethieulier</item>
+                     <item>Sir Peter Leare</item>
+                     <item>
+                        <hi>Mr.</hi> Sam. Lethieulier</item>
+                     <item>
+                        <hi>Mr.</hi> Nathaniel Letton <hi>Dec.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr.</hi> John Letton</item>
+                     <item>
+                        <hi>Mr.</hi> James Leaver</item>
+                     <item>
+                        <hi>Mr.</hi> Thomas Langham</item>
+                     <item>
+                        <hi>Mrs.</hi> Ann Lant</item>
+                     <item>* Sir John Lawrence</item>
+                     <item>* Sir Richard Loyd</item>
+                     <item>* <hi>Dame</hi> Suſanna Leare</item>
+                     <item>* Sir Thomas Littleton</item>
+                     <item>* <hi>Mr.</hi> Adam Lyle</item>
+                     <item>* <hi>Mr.</hi> Joſeph Lindſey</item>
+                     <item>* <hi>Mr.</hi> Garrard Loyd <hi>Deceaſed</hi>
+                     </item>
+                     <item>* <hi>Mr.</hi> Francis Lidſtone</item>
+                     <item>* <hi>Mrs.</hi> Sarah Letton</item>
+                     <item>* <hi>Mr.</hi> Joſiah Lawton</item>
+                     <item>* <hi>Mr.</hi> Thomas Lane</item>
+                     <item>* <hi>Mrs.</hi> Mary Lewis</item>
+                     <item>* <hi>Mrs.</hi> Elizabeth Lane</item>
+                  </list>
+                  <list>
+                     <head>M.</head>
+                     <item>Sir John Moore <hi>Knt. &amp; Alderman</hi>
+                     </item>
+                     <item>Sir Richard Maſon</item>
+                     <item>Samuel Moyer <hi>Eſq; Deceaſed.</hi>
+                     </item>
+                     <item>Nicholas Morrice <hi>Eſq;</hi>
+                     </item>
+                     <item>Ralph Marſhal <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Mr.</hi> Robert Marſhal</item>
+                     <item>Capt. Lawrence Moyer</item>
+                     <item>
+                        <hi>Mr.</hi> John Morden</item>
+                     <item>
+                        <hi>Mr.</hi> Rich. Mountney <hi>Jun.</hi>
+                     </item>
+                     <item>
+                        <hi>Mrs.</hi> Mary Murthwaite</item>
+                     <item>
+                        <hi>Mr.</hi> Nathan. Mountney</item>
+                     <item>
+                        <hi>Mrs.</hi> Ann Martell</item>
+                     <item>
+                        <hi>Mr.</hi> Samuel Moyer <hi>Jun.</hi>
+                     </item>
+                     <item>* <hi>The Hon.</hi> Charlotte Mordaunt</item>
+                     <item>* <hi>The Hon.</hi> Baptiſt May</item>
+                     <item>* Sir Thomas Middleton</item>
+                     <item>* <hi>Dr.</hi> John Moore</item>
+                     <item>* William Moſes <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas Martin <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas Methwold <hi>Eſq;</hi>
+                     </item>
+                     <item>* George Moyce <hi>Eſq;</hi>
+                     </item>
+                     <item>* <hi>Mrs.</hi> Mary Mead</item>
+                     <item>* <hi>Mr.</hi> John Miller</item>
+                     <item>* <hi>Mr.</hi> John Morley <hi>Jun.</hi>
+                     </item>
+                     <item>* <hi>Mr.</hi> William Moyer</item>
+                     <item>* <hi>Mr.</hi> Charles Mounteney</item>
+                     <item>* <hi>Mr.</hi> Rob. Maſters</item>
+                     <item>* <hi>Mr.</hi> John Marſhal</item>
+                     <item>* <hi>Mr.</hi> Sam. Marſhall</item>
+                     <item>* <hi>Mrs.</hi> Margaret Maſſingbird</item>
+                     <item>* <hi>Mr.</hi> John Vander Marſh <hi>Dec.</hi>
+                     </item>
+                     <item>* <hi>Mrs.</hi> Rebecca Marſh</item>
+                  </list>
+                  <list>
+                     <head>N.</head>
+                     <item>Sir Humph. Nicholſon <hi>Knt Dec.</hi>
+                     </item>
+                     <item>Robert Nelſon <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Mr.</hi> Richard Norton, <hi>Jun.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr.</hi> Hugh Norris</item>
+                     <item>
+                        <hi>Mr.</hi> Jeremy Norris</item>
+                     <item>* William Northey <hi>Eſq; Dec.</hi>
+                     </item>
+                     <item>* <hi>Mr.</hi> Thomas Nicholſon</item>
+                     <item>* <hi>Mr.</hi> Michael Newnam</item>
+                     <item>* <hi>Mr.</hi> Richard Nelthrope</item>
+                     <item>* <hi>Mr.</hi> Anthony Nourſe</item>
+                     <item>* <hi>Mr.</hi> Richard Normanſel</item>
+                     <item>* <hi>Mrs.</hi> Rachel Newman</item>
+                     <item>* <hi>Mr.</hi> Eraſmus Norwich <hi>&amp;</hi> Sarah his Wife</item>
+                  </list>
+                  <list>
+                     <head>O.</head>
+                     <item>
+                        <hi>Right Hon.</hi> John <hi>Lord</hi> Oſulſtone</item>
+                     <item>
+                        <hi>Mr.</hi> Juſtus Otgher</item>
+                     <item>
+                        <hi>Mr.</hi> Peter Otgher</item>
+                     <item>
+                        <hi>Mr.</hi> Abraham Otgher</item>
+                     <item>* Sir James Oxinden</item>
+                     <item>* <hi>Lieutenant Colonel</hi> Oglethorpe</item>
+                     <item>* <hi>Mr.</hi> Philip Opde Beake</item>
+                     <item>* <hi>Mr.</hi> Robert Oldſworth <hi>Dec.</hi>
+                     </item>
+                     <item>* <hi>Mr.</hi> Thankful Owen <hi>Dec.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>P.</head>
+                     <item>Peter Paravicine <hi>Eſq; &amp; Ald.</hi>
+                     </item>
+                     <item>Thomas Papillon <hi>Eſq;.</hi>
+                     </item>
+                     <item>Mr. John Paige</item>
+                     <item>
+                        <hi>Dr.</hi> John Panton</item>
+                     <item>Mr. Anthony Philp <hi>Deceaſed.</hi>
+                     </item>
+                     <item>Mr. James Pickering</item>
+                     <item>Mr. Henry Powel <hi>Deceaſed</hi>
+                     </item>
+                     <item>Mr. Samuel Powel</item>
+                     <item>Mr. Peter Proby</item>
+                     <item>Mr. Will. Potter <hi>deceaſed</hi>
+                     </item>
+                     <item>Mr. George Pappillon</item>
+                     <item>Mr. James Paul</item>
+                     <item>* Sir Charles Pitfield <hi>deceaſed</hi>
+                     </item>
+                     <item>* Edward Progers <hi>Eſq;</hi>
+                     </item>
+                     <item>* Jervis Price <hi>Eſq;</hi>
+                     </item>
+                     <item>* Mr. Francis Pargitter</item>
+                     <item>* Mr. John Pack</item>
+                     <item>* Mr. Edward Palmer</item>
+                     <item>* Mr. Sam. Phelp <hi>deceaſed.</hi>
+                     </item>
+                     <item>* Mr. Paul Priaulx</item>
+                     <item>* Mr. Tho. Pinfold <hi>deceaſed.</hi>
+                     </item>
+                     <pb facs="tcp:55261:4"/>
+                     <item>* Mr. Adrian Vander Poſt <hi>dec.</hi>
+                     </item>
+                     <item>* Mr. John Patrick</item>
+                     <item>* Mr. Thomas Paine</item>
+                     <item>* Doctor Thomas Paget</item>
+                     <item>* Mr. Thomas Perkins</item>
+                     <item>* Mr. Will. Pearce</item>
+                     <item>* Mrs. Record Peacock</item>
+                     <item>* Mr. Char. Penrodock <hi>deceaſed.</hi>
+                     </item>
+                     <item>* Mr. Edward Pearce</item>
+                     <item>* Mr. John Pargitter</item>
+                  </list>
+                  <list>
+                     <head>R.</head>
+                     <item>Sir James Ruſhout <hi>Knt.</hi>
+                     </item>
+                     <item>Edward Rudge <hi>Eſq;</hi>
+                     </item>
+                     <item>Edward Rudge <hi>of Eſſex Eſq;</hi>
+                     </item>
+                     <item>Robert Read <hi>Eſq;</hi>
+                     </item>
+                     <item>Thomas Rider <hi>Eſq;</hi>
+                     </item>
+                     <item>Mr. Thomas Rawlinſon</item>
+                     <item>Mr. Nicholas Reynardſon</item>
+                     <item>
+                        <hi>Dame</hi> Suſanna Riccard</item>
+                     <item>Mr. James Rudge</item>
+                     <item>Mr. Alphonſo Rodrigues</item>
+                     <item>* Mr. Anthony Rawlins</item>
+                     <item>* Mr. Arthur Riccard</item>
+                     <item>* Mr. John Roy</item>
+                     <item>* Mr. Edward Richardſon</item>
+                     <item>* Mr. John Reyner <hi>deceaſed.</hi>
+                     </item>
+                     <item>* Mr. Gerrard Ruſſel</item>
+                     <item>* Mr. John Riches</item>
+                     <item>* Mrs. Margaret Robinſon</item>
+                     <item>* Mr. Francis Rainsford</item>
+                     <item>* Mr. Leonard Robinſon</item>
+                  </list>
+                  <list>
+                     <head>S.</head>
+                     <item>Sir Jeremy Sambrook <hi>Knt.</hi>
+                     </item>
+                     <item>Sir Joſeph Sheldon, <hi>&amp;c. in truſt for the Children of Sir</hi> John Robinſon</item>
+                     <item>Sir James Smith <hi>Knt &amp; Ald.</hi>
+                     </item>
+                     <item>Henry Stafford <hi>Eſq;</hi>
+                     </item>
+                     <item>Henry Serle <hi>Eſq;</hi>
+                     </item>
+                     <item>John Serle <hi>Eſq;</hi>
+                     </item>
+                     <item>Richard Sterne <hi>Eſq;</hi>
+                     </item>
+                     <item>Henry Spurſtow</item>
+                     <item>Mr. Will. Sedgwick</item>
+                     <item>Mr. George Snell</item>
+                     <item>Mr. John Stock</item>
+                     <item>Mr. Nath. Scottow</item>
+                     <item>Mr. James Smith <hi>Deceaſed.</hi>
+                     </item>
+                     <item>Mr. John Smith <hi>Mincing lanc</hi>
+                     </item>
+                     <item>Mr. John Sewel</item>
+                     <item>* Sir Jeremy Snow</item>
+                     <item>* <hi>Dr.</hi> Edward Stillingfleet</item>
+                     <item>* John Stafford <hi>Eſq;</hi>
+                     </item>
+                     <item>* James Smith <hi>Eſq;</hi>
+                     </item>
+                     <item>* Mr. James Smith <hi>Farrier</hi>
+                     </item>
+                     <item>* Mr. George Smith</item>
+                     <item>* Mr. John Smith <hi>Scrivener</hi>
+                     </item>
+                     <item>* Mr. John Smith <hi>Leather ſeller</hi>
+                     </item>
+                     <item>* Mr. Nath. Smith</item>
+                     <item>* Mr. Edw. Smith</item>
+                     <item>* <hi>Dame</hi> Jane Smith</item>
+                     <item>* Mr. Samuel Swinnock</item>
+                     <item>* Mr. Samuel Smalley</item>
+                     <item>* Mr. Ralph Standiſh</item>
+                     <item>* Mr. Iſaac Sawbridge</item>
+                     <item>* Mr. Will. Samborne</item>
+                     <item>* Mr. Thomas Shellbury</item>
+                     <item>* Mr. John Sweeting</item>
+                     <item>* Mr. John Sheffeild</item>
+                     <item>* Mr. Frederick Steward</item>
+                     <item>* Mr. Matthew Sheppard</item>
+                     <item>* Mr. Joſeph Sheafe</item>
+                     <item>* Mr. Richard Spire</item>
+                     <item>* Mr. William Spire</item>
+                     <item>* Mr. James Southbey</item>
+                     <item>* Mr. John Stripe</item>
+                     <item>* Mr. John Short <hi>Sen.</hi>
+                     </item>
+                     <item>* Mr. Robert Snow</item>
+                     <item>* Mr. Henry Southcot</item>
+                     <item>* Mrs. Alice Stamford</item>
+                     <item>* Mrs. Elizabeth Serle</item>
+                  </list>
+                  <list>
+                     <head>T.</head>
+                     <item>
+                        <hi>The Right Honourable Sir</hi> Henry Tulſe <hi>Knt &amp; Lord Mayor</hi>
+                     </item>
+                     <item>Sir Will. Turner <hi>Knt &amp; Ald.</hi>
+                     </item>
+                     <item>Robert Thompſon <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Ditto as Exec. of Sir</hi> Tho. Hooke</item>
+                     <item>Charles Thorold <hi>Eſq;</hi>
+                     </item>
+                     <item>Nathaniel Tench <hi>Eſq;</hi>
+                     </item>
+                     <item>Thomas Townſend <hi>Eſq;</hi>
+                     </item>
+                     <item>Mr. John Turner <hi>Jun.</hi>
+                     </item>
+                     <item>Mr. Francis Tyſſen</item>
+                     <item>Mr. Giles Travers</item>
+                     <item>Mr Joſeph Thompſon</item>
+                     <item>Mr. John Taulbot</item>
+                     <item>Mr. Chriſtopher Thomlinſon</item>
+                     <item>Mrs. Martha Tomlinſon</item>
+                     <item>* Benj. Thorowgood <hi>Eſq; &amp; Ald.</hi>
+                     </item>
+                     <item>* Sigiſmund Trafford <hi>Eſq;</hi>
+                     </item>
+                     <item>* John Taylor <hi>Eſq;</hi>
+                     </item>
+                     <item>* Mr. John Taylor</item>
+                     <item>* Mr. Richard Taylor</item>
+                     <item>* Mrs. Ann Taylor</item>
+                     <item>* Mr. William Trinder</item>
+                     <item>* Mr. Anthony Twine</item>
+                     <item>* Mr. Iſaac Tillard</item>
+                     <item>* Mr. Will. Thompſon <hi>Deceaſed.</hi>
+                     </item>
+                     <item>* Mr. Anthony Tourney</item>
+                     <item>* Mr. Daniel Thomas</item>
+                     <item>* Mr, Francis Thompſon</item>
+                     <item>* Mr. Francis Towle <hi>Deceaſed.</hi>
+                     </item>
+                     <item>* Mr. Thomas Turner</item>
+                     <item>* Mr. Matthew Turner <hi>Deceaſed.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>V.</head>
+                     <item>William Vanham <hi>Eſq;</hi>
+                     </item>
+                     <item>John Upton <hi>Eſq;</hi>
+                     </item>
+                     <item>Conſtantine Vernattie <hi>Eſq;</hi>
+                     </item>
+                     <item>* Mr. Peter Vinck.</item>
+                     <item>* Mr. Thomas Vernon.</item>
+                     <item>* Mr George Underwood.</item>
+                  </list>
+                  <list>
+                     <head>W.</head>
+                     <item>
+                        <hi>The Right Honourable</hi> Charles <hi>Earl of</hi> Worceſter</item>
+                     <item>Sir Joſeph Williamſon</item>
+                     <item>Sir James Ward</item>
+                     <item>Sir Edward Waldoe</item>
+                     <item>Sir Edmond Wiſeman</item>
+                     <item>Roger Whitley <hi>Eſq;</hi>
+                     </item>
+                     <item>Thomas Winter <hi>Eſq; Deceaſed.</hi>
+                     </item>
+                     <item>George Willoughby <hi>Eſq;</hi>
+                     </item>
+                     <item>Mr. Thomas Wood</item>
+                     <item>Mr. Robert Woolley</item>
+                     <item>Mr. James Wallis</item>
+                     <item>Mr. John Willaw</item>
+                     <item>Mr. James Wancourt</item>
+                     <item>Mr. Stephen White <hi>Deceaſed.</hi>
+                     </item>
+                     <item>Mrs. Ann Wheat</item>
+                     <item>* Francis Warner <hi>Eſq;</hi>
+                     </item>
+                     <item>* Henry Whiſtler <hi>Eſq;</hi>
+                     </item>
+                     <item>* Thomas Wardel <hi>Eſq;</hi>
+                     </item>
+                     <item>* <hi>Dr.</hi> John Wallis</item>
+                     <item>* Mr. Samuel Waldoe</item>
+                     <item>* Mr. George Wade</item>
+                     <item>* Mr. Hammond Ward</item>
+                     <item>* Mr. Edward Weſt</item>
+                     <item>* Mr. Robert Whittingham</item>
+                     <item>* Mr. Richard White</item>
+                     <item>* Mr. William Wildey</item>
+                     <item>* Mr. Roger Whitley</item>
+                     <item>* Mr. James Whitchurch</item>
+                     <item>* Mr. Robert Winnington</item>
+                     <item>* Mr. James Windus</item>
+                     <item>* Mr. Thomas Woodcock</item>
+                     <item>* Mrs. Ann Walter</item>
+                     <item>* Mrs. Mary Weſt</item>
+                     <item>* Mrs. Izabella Wheate</item>
+                     <item>* Mrs Frances Wheate</item>
+                     <item>* Mrs. Ann Whittingham</item>
+                  </list>
+                  <list>
+                     <head>Y.</head>
+                     <item>* Mr. Chriſtopher Yates</item>
+                  </list>
+                  <note place="bottom">
+                     <p>
+                        <hi>Memorandum,</hi> 500 l. Adventure hath but one Vote, and no leſs then 1000 l. renders any perſon capable of being choſen of the Committees.</p>
+                     <p>The Adventurers are perſonally to bring in their Votes and not to ſend them by any other hand, and are deſired <gap reason="illegible" resp="#MURP" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                     </p>
+                  </note>
+                  <div type="list">
+                     <head>The Names of the Governour, Deputy-Governour, and Twenty-four Committees. Elected in 1683. Toge<g ref="char:EOLhyphen"/>ther with their reſpective Appearances, there being 125 Courts to the 11th. of <hi>April,</hi> 1684. Incluſive.</head>
+                     <list>
+                        <item>
+                           <hi>Sir</hi> John Banks Govenour Preſent. 113</item>
+                        <item>
+                           <hi>Sir</hi> Jeremy Sambrooke Deputy 125</item>
+                     </list>
+                     <list>
+                        <item>
+                           <hi>R. Hon.</hi> Charles <hi>E.</hi> of <hi>Worceſter Preſent.</hi> 5</item>
+                        <item>
+                           <hi>R. Hon.</hi> George <hi>E.</hi> of <hi>Berkely</hi> 85</item>
+                        <item>
+                           <hi>Sir</hi> Joſeph Aſh 59</item>
+                        <item>Caleb Banks <hi>Eſq;</hi> 93</item>
+                        <item>
+                           <hi>Mr.</hi> Chriſtophher Boone 110</item>
+                        <item>
+                           <hi>Sir.</hi> Joſia Child 82</item>
+                        <item>John Creed <hi>Eſq;</hi> 96</item>
+                        <item>
+                           <hi>Mr.</hi> Thomas Canham 119</item>
+                        <item>
+                           <hi>Mr.</hi> Thomas Cook 111</item>
+                        <item>
+                           <hi>Sir</hi> Thomas Daval 120</item>
+                        <item>
+                           <hi>Mr.</hi> Sheriff Daniel 65</item>
+                        <item>John du Bois <hi>Eſq;</hi> 124</item>
+                        <item>
+                           <hi>Sir</hi> James Edwards 106</item>
+                        <item>Richard Hutchinſon <hi>Eſq;</hi> 116</item>
+                        <item>
+                           <hi>Mr.</hi> Joſeph Herne 121</item>
+                        <item>
+                           <hi>Sir</hi> Henry Johnſon 18</item>
+                        <item>
+                           <hi>Mr.</hi> William Jarret 124</item>
+                        <item>
+                           <hi>Sir</hi> John Moore 115</item>
+                        <item>
+                           <hi>Mr.</hi> John Paige 110</item>
+                        <item>Edward Rudge <hi>Eſq;</hi> 121</item>
+                        <item>Henry Serle <hi>Eſq;</hi> 82</item>
+                        <item>
+                           <hi>Mr.</hi> William Sedgwick 119</item>
+                        <item>
+                           <hi>Mr.</hi> Francis Tyſſen 119</item>
+                        <item>
+                           <hi>Sir</hi> James Ward 122</item>
+                     </list>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:55261:5"/>
+                  <pb n="1" facs="tcp:55261:5" rendition="simple:additions"/>
+                  <head>Some Conſiderations concerning the Prejudice which the Scotch Act Eſtabliſhing a <hi>COMPANY</hi> to Trade to the <hi>Eaſt</hi> and <hi>Weſt-Indies,</hi> (with large Priviledges, and on eaſie Terms) may bring to the Engliſh Sugar Plan<g ref="char:EOLhyphen"/>tations, and the Manufactury of Refining Sugar in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and ſome means to prevent the ſame from Scot<g ref="char:EOLhyphen"/>land and other Nations.</head>
+                  <p>THE preſent Parliament, both Lords and Commons, having been pleaſed to take into their Conſideration, as matter of great moment, the Buſineſs of Trade in general, and particularly what Inconveniencies and Miſchiefs the late Scotch Act may bring to the Engliſh <hi>East</hi> and <hi>Weſt Eaſt-India</hi> Trade; no doubt, the Perſons concerned in the ſeveral parts of thoſe Trades, will ſeverally lay open the Damage which <hi>England</hi> will ſuffer, by the Scotch and any other Nations Trading to thoſe Parts, (or in the Commodities produced there) on eaſier and more advantagious Terms than this Kingdom doth; and amongſt the reſt the Trade of Sugar, which is become ſo large and beneficial to <hi>England,</hi> deſerves not the leaſt Re<g ref="char:EOLhyphen"/>gard: For, whereas we were formerly ſupplyed with that Commodity from <hi>Portugal,</hi> which drew an Over-ballance of Money from hence; now, and of late we produce enough, not only to ſerve our own Conſumption, but to export a great over-plus of raw or unpurged Sugar to <hi>Holland, Hambro,</hi> and before the War to <hi>France;</hi> and had gained a great Trade in Exporting our White <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the inequality of the Duty, and the advantages given to the Dutch and other Nations, to Refine our own raw Sugars, and to Export the Sugars which come White from the Plantations rendred it unprofitable, whereby the Manufacture here has been diſcouraged; and will be more ſo by the Scotch Act and Agents, if not prevented; for already the Scotch are ſeeking to bribe and intice away our Maſter-Workmen, and had actually hired one, to whom the Maſter was forced to advance his Wages 10 <hi>l. per Annum</hi> to keep him.</p>
+                  <p>There needs no Argument to evince the great benefit which the Trade of Sugar has been to this Kingdom; not only by the Riches it has brought in, and the Employment of many Ships and Seamen, but by a Manufacture it has Eſtabliſh't here at Home, which employs Thouſands of People, who are Fed and Cloathed by our own Product, and before uſed to come from abroad: and which, if due Encouragement were given, would be Exported in great Quantities, to the further Enriching this Nation, and producing many other Advantages.</p>
+                  <p>It is agreed on all hands, That it is an advantage to any Nation to abound with Peo<g ref="char:EOLhyphen"/>ple, eſpecially ſuch as are Laborious and Induſtrious, they help to conſume our own Product, their Labour produces what turns into Money at home or abroad; and the more populous any Nation is, the ſtronger and better able it is to defend it ſelf againſt any Foreign Power.</p>
+                  <p>It is alſo agreed, that the means to promote and encreaſe any Manufacture in <hi>England,</hi> is to render thoſe employed therein as eaſy as may be; and eſpecially to take care, if poſſible, that other Nations have not any Advantage of us; and this has continually been the care of the Crown and the Parliament, as any new Manufacture has been ſet up here. We have gained upon other Nations in the Manufacture of Silk, <hi>&amp;c.</hi> which are the Product of other Countries; What then ſhould hinder us from out-doing all others in the Manufacture of our Sugar which is our own Product, and wherein we have in our Power the advantage of all other People? the only reaſon
+<pb n="2" facs="tcp:55261:6"/> I think, which can be aſſigned is, that as yet this matter has not met with the favou<g ref="char:EOLhyphen"/>rable occaſion to be duely Conſidered in Parliament; for want whereof, other Nati<g ref="char:EOLhyphen"/>ons have beaten us out of the Trade of Exporting our Refin'd Sugar; and if the Scotch ſettle in any Plantation, and produce Sugar, it may become paſt Remedy, or by a quicker Method by enticing away our Workmen, they will at once Diſable us from carrying it on. It is therefore to be ſeen how the Caſe ſtands.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="The Caſe."/>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell>s.</cell>
+                           <cell>d.</cell>
+                        </row>
+                        <row>
+                           <cell>Raw or Unpurged Sugar from the Plantations pays Cuſtom for a Hundred Weight,</cell>
+                           <cell>1</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>Purged or Clay'd Sugar from the Plantations under the degree of White, the ſame Cuſtom, for a Hundred Weight</cell>
+                           <cell>1</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>White Sugar from the Plantations; for a Hundred Weight</cell>
+                           <cell>5</cell>
+                           <cell>0</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="Note,"/> Three Hundred Weight of Raw or <hi>Muſcovado</hi> Sugar, is computed to make One hundred Weight of White Sugar.</p>
+                  <p>On Exportation of theſe Sugars half the Duty is paid back.</p>
+                  <p>On Exportation of White Sugar made in <hi>England,</hi> a Duty is paid for 100 Weight <hi>6 d.</hi>
+                  </p>
+                  <p>Whereby it appears, that other Nations have our raw or unpurged Sugar <hi>9 d. per</hi> 100 weight cheaper than the Engliſh Refiners, which in 100 weight of White Sugar makes <hi>2 s. 3 d. per</hi> 100 weight difference; and the White Sugar from the Plantations, paying Inwards <hi>5 s. per</hi> 100 weight, and drawing back half on Exportation, pays but <hi>2s. 6d per</hi> 100 weight; whereas, if our Refiners Export White Sugar, it ſtands them in <hi>5 s. per</hi> 100 weight Duty; <hi>viz. 1 s. 6d. per</hi> 100 weight on the raw Sugar Imported, whereof 300 going to make 100 weight of White makes <hi>4s. 6d.</hi> and <hi>6d. per</hi> 100 weight paid on Exportation, makes <hi>5 s. per</hi> 100 weight: So that on all hands, the Engliſh Refiner is under great diſadvan<g ref="char:EOLhyphen"/>tage and diſcouragement, which is further conſiderably increaſed by the high Duty of about 18 <hi>l. per</hi> Ton on Spirits drawn from Engliſh made Melaſſes. And hence it comes to paſs, that Foreigners work up our raw Sugars, and furniſh with White Loaf Sugar, thoſe Markets which <hi>England</hi> might, and would highly be our advantage to ſupply. And it is in ſome degree as if we ſhould ſend our Wool abroad to be Manufactured, and thence to be diſperſed to Foreign Markets: For it is plain in fact, that now none of our White Load Sugar <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> difficulties which the Refining Trade in <hi>England</hi> labours under, for the removing which in ſome meaſure it is humbly propoſed.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> That (in Caſe the high Duty on Spirits drawn from Engliſh Melaſſes be continued) a Duty of 4 or <hi>5 s. per</hi> 100 weight may be laid upon all Melaſſes Imported from the Plantati<g ref="char:EOLhyphen"/>ons, to be Repaid on Exportation; which will not hurt the Plantations, it being bet<g ref="char:EOLhyphen"/>ter for the Planters that no Melaſſes were Exported from thence.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> That <hi>2s. 6d. per</hi> 100 weight may be drawn back upon White Sugar made in <hi>England,</hi> as is upon White Sugar Imported from the Plantations, whereby the Crown will receive no prejudice; for that the more Engliſh Refined Sugar is Exported, the greater quan<g ref="char:EOLhyphen"/>tity of White Sugar from the Plantations will be Expended in <hi>England,</hi> on which the King has the Duty of <hi>5 s. per</hi> 100 weight.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> That nothing be drawn back on Exportation of raw or unpurged Sugar, which will give ſome ſmall encouragement of working it up here.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> That whereas Sugars wrought and clayed in the Plantations, (called Purged Sugars) which are under the degree of Whites, pay only <hi>1s. 6d. per</hi> 100 weight as raw unpurged Sugars; the ſaid Sugars may pay <hi>1 s. 6 d. per</hi> 100 only more, which will then make an indifferent equality; and then the Duties will be thus, <hi>viz.</hi>
+                  </p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>On White Sugars</cell>
+                           <cell>
+                              <hi>5 s. per</hi> C. weight.</cell>
+                        </row>
+                        <row>
+                           <cell>On Clay'd Sugars under the degree of White</cell>
+                           <cell>
+                              <hi>3 s. per</hi> C. weight.</cell>
+                        </row>
+                        <row>
+                           <cell>On Raw or <hi>Muſcovado</hi> Sugars</cell>
+                           <cell>
+                              <hi>1 s. 6 d. per</hi> C. weight.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>This will encourage the Refining in <hi>England,</hi> and encreaſe the King's Revenue in all probability near 10000 <hi>l. per Annum,</hi> and without prejudice to any but the Scotch and Foreigners.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:55261:6"/>
+                  <head>Eleven <hi>Queries</hi> Humbly tender'd, Relating to the Bill for Prohibiting the Wearing of <hi>Eaſt-India</hi> Silks, and Printed and Dyed Calicoes.</head>
+                  <p n="1">I. WHY Should <hi>Eaſt-India</hi> Silks and Bengals be pro<g ref="char:EOLhyphen"/>hibited, which to the Nation are three times as cheap as Dutch, French and Italian Silks?</p>
+                  <p n="2">II. Why <hi>Eaſt-India</hi> Silks, Bengals and Printed Cali<g ref="char:EOLhyphen"/>coes, that pay Five times the Freight, and Twenty <hi>per Cent.</hi> more Cuſtom, than Dutch and Italian Silks?</p>
+                  <p n="3">III. Why <hi>Perſia</hi> Silks purchaſed with Engliſh Cloth and Stuffs, more than Dutch, French and Italian Silks bought with our Money?</p>
+                  <p n="4">IV. Why ſhould Painted Calicoes, from <hi>India</hi> be prohibited, when we muſt in their Room Print Dutch, French, Scotch or German Linnens, which will coſt the Nation three times the price?</p>
+                  <p n="5">V. Why ſhould we enrich our Neighbours by Prohibiting <hi>Eaſt-India</hi> Silks, and wearing of theirs, when at one time or other, they may em<g ref="char:EOLhyphen"/>ploy the coſts of thoſe Silks againſt us?</p>
+                  <p n="6">VI. Why ſhould we interrupt that Trade, which not only affords us the cheapeſt Commodities in the World, but likewiſe encourages the Buidling large Ships, which in caſes of neceſſity may be uſeful for the de<g ref="char:EOLhyphen"/>fence of this Kingdom?</p>
+                  <p n="7">VII. What advantage will it be to <hi>England,</hi> that her Manufactures (whether at low or high price) are conſumed within it ſelf, the Nation being thereby never the Richer?</p>
+                  <p n="8">VIII. Why ſhould we Raiſe up ſome Artiſts to oppreſs others? For if Spinning and Weaving be Engliſh Manufactures, ſo is Dyeing, Calen<g ref="char:EOLhyphen"/>dring, Stiffning, Glazeing and Printing?</p>
+                  <p n="9">IX. Why ſhould we prohibit the wearing <hi>Eaſt-India</hi> Manufactures, which are ſo cheap, to encourage the wearing our own which are much dearer, and yet give liberty to Export them into other Countreys, where they will have the ſame effect upon ours there?</p>
+                  <p n="10">X. What encouragement will it be to bring hither thoſe far ſetch'd Commodities, when we have no vent for them at Home, but muſt ſend them to be blown upon in a Forreign Market?</p>
+                  <p n="11">XI. Why ſhould we Cut off this profitable Trade from the Engliſh, and let the Dutch, French, Sweeds and Scotch run away with it? For Trade like the Sea, never loſeth Ground in any one place, but ſhe gains it in another, and if checked or reſtrained takes it flight and carries its Bleſſiings to more Hoſpitable Countreys.</p>
+                  <div type="title">
+                     <pb facs="tcp:55261:7"/>
+                     <p>Eleven <hi>Queries</hi> Relating to the Bill, for Prohi<g ref="char:EOLhyphen"/>biting <hi>Eaſt-India</hi> Silks, and Printed Callicoes.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:55261:7"/>
+                  <head>AN ANSWER TO THE Eleven QUERIES</head>
+                  <head type="sub"> Humbly tender'd, Relating to the <hi>BILL</hi> for prohibiting the Wear<g ref="char:EOLhyphen"/>ing of <hi>Eaſt-India</hi> Silks, and Printed and Dyed Callicoes.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">QUERIES.</cell>
+                           <cell role="label">ANSWERS.</cell>
+                        </row>
+                        <row>
+                           <cell>I. WHY ſhould <hi>Eaſt-India</hi> Silks and Bengalls be prohibited, which to the Nation are three times as cheap as <hi>Dutch, French,</hi> and <hi>Italian</hi> Silks?</cell>
+                           <cell>I. THE Cheaper they are, the more damage they do to our own Growth and Manu<g ref="char:EOLhyphen"/>factures, and therefore the more <hi>neceſſary</hi> and <hi>reaſonable</hi> to be prohibited.</cell>
+                        </row>
+                        <row>
+                           <cell>II. Why <hi>Eaſt-India</hi> Silks, Bengalls and Printed Callicoes, that pay five times the Freight, and Twenty <hi>per Cent.</hi> more Cuſtom, than <hi>Dutch</hi> and <hi>Italian</hi> Silks?</cell>
+                           <cell>II. The difference in Cuſtom is not true in Fact; and their great Freight will not recompence the Da<g ref="char:EOLhyphen"/>mage the Nation receives by wearing them inſtead of its own Manufactures.</cell>
+                        </row>
+                        <row>
+                           <cell>III. Why <hi>Perſia</hi> Silks purchaſed with <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Cloth and Stuffs, more then <hi>Dutch, French,</hi> and <hi>Italian</hi> Silks bought with our Money?</cell>
+                           <cell>III. <hi>Perſia</hi> Silks (ſo called) are made in the <hi>Bay</hi> of <hi>Bengall,</hi> and bought with Money: <hi>Dutch, French</hi> and <hi>Italians</hi> are almoſt all beat out by our own Silks.</cell>
+                        </row>
+                        <row>
+                           <cell>IV. Why ſhould painted Callicoes from <hi>India</hi> be prohibited, when we muſt in their Room print <hi>Dutch, French, Scotch,</hi> or <hi>German</hi> Linnens, which will coſt the Nation three times the price?</cell>
+                           <cell>IV. Becauſe <hi>Floured, Strip't</hi> and <hi>Printed</hi> Worſtead and half-Silk Stuffs are now worn, (and with <hi>Engliſh</hi> or <hi>Iriſh</hi> Linnen may be worn) and ſupply all the uſes of Callicoes, and not <hi>Dutch</hi> Linnens, <hi>&amp;c.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>V. Why ſhould we enrich our Neighbours by Prohibiting <hi>Eaſt-India</hi> Silks, and wearing of theirs, when at one time or other, they may imploy the Coſts of thoſe Silks againſt us?</cell>
+                           <cell>V. This Kingdom (and not our Neighbours) will receive great Advantage, and be inricht thereby, and by that means the better able to ſupport and defend our ſelves, both at home and abroad.</cell>
+                        </row>
+                        <row>
+                           <cell>VI. Why ſhould we interrupt that Trade, which not only affords us the cheapeſt Commodi<g ref="char:EOLhyphen"/>ties in the World, but likewiſe encourages the building large Ships, which in Caſes of Neceſſi<g ref="char:EOLhyphen"/>ty may be uſeful for the defence of this Kingdom?</cell>
+                           <cell>VI. The firſt part is anſwered already in the Anſwer to the firſt Query; and as to the Shipping, it may in a great meaſure be imployed in bringing over Raw Silk and other Commodities which may be Manufactu<g ref="char:EOLhyphen"/>red here, and turn to good account to the Nation.</cell>
+                        </row>
+                        <row>
+                           <cell>VII. What advantage will it be to <hi>England,</hi> that her Manufactures (whether at low or high price) are conſumed within it ſelf, the Na<g ref="char:EOLhyphen"/>tion being thereby never the Richer?</cell>
+                           <cell>VII. This Nation will be the richer by conſuming its own Manufactures, then it will be by conſuming Forreign, purchaſed with our Money, though at very cheap rates.</cell>
+                        </row>
+                        <row>
+                           <cell>VIII. Why ſhould we Raiſe up ſome Artiſts to oppreſs others? For if Spinning and Weaving be <hi>Engliſh</hi> Manufactures, ſo is Dying, Calendring, Stiffning, Glazing and Printing?</cell>
+                           <cell>VIII. That the Printers, <hi>&amp;c.</hi> are very inconſiderable in number to the Spinſters and Weavers, and ſome of them now are, and the reſt may as well be imployed in printing our own, as <hi>India</hi> Manufactures.</cell>
+                        </row>
+                        <row>
+                           <cell>IX. Why ſhould we prohibit the wearing <hi>Eaſt-India</hi> Manufactures, which are ſo cheap, to encourage the wearing our own which are much dearer, and yet give liberty to Export them into other Countreys, where they will have the ſame effect upon ours there?</cell>
+                           <cell>IX. Our own Manufactures are cheaper to the Nation than <hi>Eaſt-India</hi> Manufactures are or can be; and as to the damage they will do us in other Countreys, we are ſenſible of it, but cannot prevent it; (for if we will not carry them thither, other Nations will); and there<g ref="char:EOLhyphen"/>fore the more need to hinder it at home.</cell>
+                        </row>
+                        <row>
+                           <cell>X. What encouragement will it be to bring hither thoſe far fetch'd Commodities, when we have no vent for them at Home, but muſt ſend them to be blown upon in a Forreign Mar<g ref="char:EOLhyphen"/>ket?</cell>
+                           <cell>X. As much as formerly; when that Trade was in a flouriſhing Condition, Then three parts in four was Exported, as appears by their printed Books; the <hi>Bill</hi> takes away but part of the home Conſumpti<g ref="char:EOLhyphen"/>on, which may be ſupplied by Raw Silks, <hi>&amp;c.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>XI. Why ſhould we Cut off this profitable Trade from the <hi>Engliſh,</hi> and let the <hi>Dutch, French, Sweeds</hi> and <hi>Scotch</hi> run away with it? For Trade like the Sea, never loſeth ground in any one place, but ſhe gains it in another, and if checked or reſtrained, take its flight, and carries its Bleſſings to more Hoſpitable Coun<g ref="char:EOLhyphen"/>tries.</cell>
+                           <cell>XI. If this Trade be profitable, it is only ſo to ſome private Perſons, and not to the Nation; ſo bet<g ref="char:EOLhyphen"/>ter loſt than kept. But by this, neither <hi>Dutch, French, Swedes</hi> or <hi>Scotch</hi> can be benefitted; ſo that the Trade looſing Ground, it will be no more than thus, the <hi>Eaſt-India</hi> Company will loſe ſome part of their Trade in Manufactured Goods, and the Nation be great Gain<g ref="char:EOLhyphen"/>ers thereby.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <div type="title">
+                     <pb facs="tcp:55261:8"/>
+                     <p>An ANSWER TO THE QUERIES <hi>Relating to the</hi> BILL <hi>for Reſtrain<g ref="char:EOLhyphen"/>ing</hi> Eaſt-India <hi>wrougt Silks,</hi> &amp;c. <hi>in</hi> England.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:55261:8"/>
+                  <head>REASONS Humbly Offered For Reſtraining the Wearing of Wrought Silks, Bengals, and Dyed, Printed, and Stained Callicoes, of the Product and Manufacture of <hi>Perſia</hi> and the <hi>Eaſt-Indies,,</hi> in <hi>England</hi> and our Plantations.</head>
+                  <p>THE Goods Imported from the <hi>East-Indies,</hi> for ſeveral Years after the <hi>East-India Company</hi> were firſt Eſtabliſhed, were Drugs, Spices, Salt-petre, <hi>&amp;c.</hi> and ſome Courſe Cal<g ref="char:EOLhyphen"/>lico's, which were moſt Exported again: The Members of that Company being then afraid to adventure on other Manufactured Goods, becauſe they well knew it would prejudice our own, and raiſe a Storm againſt the Company, as they often-times declared.</p>
+                  <p>That the <hi>Charter</hi> of the <hi>East-India Company</hi> was Confirmed by King <hi>Charles</hi> II. in the Thirteenth Year of his Reign: and the Law for permitting Bullion to be Exported, was made ſoon after, at the Solicitation of that Company; and till then, little Silver or Gold was Exported. After that Law was made, begun the great Exportation of Bullion to <hi>India.</hi>
+                  </p>
+                  <p>That, in <hi>Anno</hi> 72, or 73 ſeveral Artificers, were ſent over by the Com<g ref="char:EOLhyphen"/>pany, with great quantity of Engliſh Patterns, to teach the <hi>Indians</hi> how to Manufacture Goods to make them Vendible in <hi>England,</hi> and the reſt of the <hi>European</hi> Markets. After which began the great Trade in Manufa<g ref="char:EOLhyphen"/>ctured Goods from the <hi>Indies.</hi>
+                  </p>
+                  <p>That this was complained of, and proved before ſeveral Lords appointed by King <hi>Charles</hi> II. in <hi>Anno</hi> 1680, or 81. Whereupon the Company re<g ref="char:EOLhyphen"/>ceived ſome Diſcouragement; but finding great Gain by Wrought Silks, Bengals and Callico's, would not deſiſt Trading in them: upon which great Complaints were made in Parliament, againſt the growth of the <hi>East-India</hi> Trade.</p>
+                  <p>That about 500000 <hi>l.</hi> in Bullion, and but ſmall quantities of our Manu<g ref="char:EOLhyphen"/>factures have been Yearly Exported; and vaſt quantities of Manufactured Goods Imported, for ſeveral Years before the War.</p>
+                  <p>That a great part of the <hi>India</hi> Manufactured Goods were ſpent in <hi>England,</hi> and our Plantations, in the room of our own Manufactures, <hi>viz.</hi> their Wrought Silks, Bengall's, Painted and Dyed Callico's, in the room of our Silks, Half Silks, Worſted Stuffs, Say's, Perpetuano's, and divers other Commodities, not only for Veſtments for both Sexes, but for Hanging of Rooms, Beds, <hi>&amp;c.</hi>
+                  </p>
+                  <pb n="2" facs="tcp:55261:9"/>
+                  <p>That the <hi>India</hi> Trade was encreaſed, before the War, to a very great height, and their Manufactures in ſo great requeſt, that they (from being a Scandal to be worn a few years before) ſoon after became the general Wear of almoſt all ſorts and degrees of Perſons; by which means our own Manufactures were neglected, and our Manufacturers thereby under great diſ<g ref="char:EOLhyphen"/>couragement, being not able to carry on their Trades, many were forced to give over, whereby the Poor wanted Employment, the Price of Wool reduced very low, and great quantities of Wool could not be Manufactured: Whereupon the Parliament thought it neceſſary to make a Law for <hi>Burying in Woollen,</hi> thereby to conſume ſome of the Wool that lay heavy upon the Growers Hand.</p>
+                  <p>That the <hi>Indians</hi> have Proviſions and Materials very cheap, and Wages at three Half-pence or two pence a Day; which diſables us, and the reſt of the <hi>European</hi> Traders, to contend with them; and for this reaſon, their Trade did encreaſe apace, until this War; and unleſs reſtrained, will moſt certainly encreaſe, to the ruining of our beſt Fabricks, and the vaſt num<g ref="char:EOLhyphen"/>ber of People that have their Livelihood and Dependance thereupon.</p>
+                  <p>That ſince this War, the <hi>India</hi> Company have laboured under ſome Diſcouragements, and but ſmall quantities of their Manufactured Goods, in proportion to what they formerly brought in, have been Imported; by reaſon thereof, great Encouragement hath been given to the Manufactures of Silk, Half Silk, and Worſted, which have been very much improved in a great variety of Figured, Strip'd, and other ſort of Stuffs, which have been made not only in <hi>London, Norwich</hi> and <hi>Canterbury,</hi> in much greater quantities than ever; but this Manufacture has now ſpread it ſelf to <hi>Briſtol, Newbury,</hi> and divers other Parts of the Kingdom; and will yet encreaſe, if due Encouragement be given thereto.</p>
+                  <p>That ſince our Trade hath encreaſed, greater numbers of Poor have been employed, and greater quantities of Engliſh Wool conſumed; ſo that the Price of the Wool is advanced, and the Labour and Wages of the Poor encreaſed; which enables them to live comfortably, and conſume the Product of the Land, to ſupport themſelves and Families; which is of great Advantage to the Landlords and Tenants, and the Benefit of the whole Nation.</p>
+                  <p>That in caſe the <hi>Eaſt-India</hi> Stock ſhould be enlarged, and that Trade ſettled by Act of Parliament, it will be in the power of that Company to ruine our Woollen and Silk Manufactures, and bring down the Price of Wool, and Work-mens Labour and Wages, as low, if not lower, than ever, unleſs the Wearing of the ſaid Manufactured Goods be prohibited in <hi>England,</hi> and the Plantations.</p>
+                  <p>That ſuch Prohibition would not only encourage our own Manufactures, upon which the Value of Lands, and the Employment of our Poor depends, but prevents the Exportation of much of our Coin, which at this time can be very ill ſpared; and alſo prevent many of the Inconveniences feared from the <hi>Scotch East-India Company.</hi>
+                  </p>
+                  <p>That ſince there is a Trade found out to the <hi>Indies,</hi> no Objection can well be made againſt their Trade in Spices, Drugs, Salt-petre, <hi>&amp;c.</hi> nor againſt the Manufactured Goods that are brought in, and again exported to Foreign Markets; becauſe it will be carry'd on by others, if we ſhould neg<g ref="char:EOLhyphen"/>lect it: But certainly it muſt be accounted very ill Husbandry, and will be of fatal and ruinous conſequence, to deſpiſe our own Manufactures, and ſend our Gold and Silver to the <hi>Indies,</hi> from whence it will never return,
+<pb n="3" facs="tcp:55261:9"/> to purchaſe Manufactur'd Goods to be conſumed at Home, when our Money may be kept here to circulate among our ſelves; and is ſo neceſſary to our Commerce, and payments of our Fleets and Armies, without which, we can neither be rich or ſafe.</p>
+                  <p>That the great Argument that is uſed in favour of the <hi>Eaſt-India</hi> Com<g ref="char:EOLhyphen"/>pany, is, <hi>That although they Export great Quantities of Bullion, yet they bring in much more for the Goods they ſell in Foreign Markets.</hi> Suppo<g ref="char:EOLhyphen"/>ſing their Aſſertion to be true, this can be no Argument againſt the prohibiting their Manufactures to be worn in <hi>England,</hi> and our Plan<g ref="char:EOLhyphen"/>tations, but rather an Argument for it; for what is conſumed at Home, brings in no Bullion; and if none be conſumed at Home, more may be ſent Abroad: for it will make the Company more induſtrious to find out either New Commodities to deal in, or Markets for the vending thereof, whereby they may make their Trade more Profitable to the Nation.</p>
+                  <p>It is alſo alledged, in favour of the <hi>East-India</hi> Trade, <hi>That there have of late years been great Quantities of Engliſh Cloth Exported by the Company.</hi> To which this Anſwer is to be given, That the Cloth by them Exported more than formerly, is not conſumed in <hi>India,</hi> but ſent thence to <hi>Perſia;</hi> which hinders the <hi>Turkey</hi> Merchants, who formerly uſed to ſupply thoſe Markets. So that the <hi>East-India</hi> Company ſending away our Cloth, proves no Advantage to us, and is only done to gain a good Opinion, and make the Nation believe that their Trade is not ſo prejudicial to us as has been repreſented, or as in reality it is.</p>
+                  <p>That the ſending our Money to the <hi>East-Indies,</hi> to purchaſe Goods perfectly Manufactured there, may Advance Lands, Enrich the People, Employ the Poor in <hi>India:</hi> But ſuch as are ſpent here, in the room of our own Manufactures, muſt have the quite contrary effect with us.</p>
+                  <p>Whether it be for the Intereſt of <hi>England,</hi> to Settle the <hi>East-India</hi> Trade, without Reſtrictions, is humbly ſubmitted to the Conſideration of the <hi>Parliament.</hi>
+                  </p>
+                  <div type="title">
+                     <pb facs="tcp:55261:10"/>
+                     <p>REASONS Againſt Wearing of <hi>India</hi> Wrought Sikls, Bengals, and Callicoes, In <hi>England,</hi> and the Plantations.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:55261:10"/>
+                  <head>The <hi>WEAVERS</hi> of <hi>London</hi> do humbly offer to the ſeri<g ref="char:EOLhyphen"/>ous Conſideration of both Houſes of Parliament;</head>
+                  <argument>
+                     <p>That this Kingdom of <hi>England</hi> will ſuſtain great Evils and Damage by enjoyning the Wear of Woollen Manufactures and Leather, both by Men, Women, and Children, by a Law; and ſo conſequently reſtraining the Wear of Silks and Hair Stuffs manufactured in <hi>England;</hi> And that great benefit may enſue to the Engliſh Nation, by prohibiting the Uſe and Wear of Silks and Stuffs Foreign manufactur'd, appears by theſe following Particulars, <hi>viz.</hi>
+                     </p>
+                  </argument>
+                  <div type="part">
+                     <p>THE <hi>Reſtraint</hi> of wearing Silks, and Stuffs made of <hi>Mohair Yarn</hi> manufactured in <hi>England,</hi> will neceſſarily impoveriſh and depopulate the Nation, there being no Trades in <hi>England</hi> that imploy ſo many People as thoſe relating to the Manufa<g ref="char:EOLhyphen"/>cturing of Silk and Hair; for upon the moſt modeſt computation they are judg<g ref="char:EOLhyphen"/>ed to be above Three hundred thouſand Souls <hi>Weavers, Throwſters, Windſters; Dyers,</hi> and other Dependents thereupon, that do ſubſiſt thereby, and that have no other way of Livelyhood; and a great part of theſe have ſerved ſeven years Apprentiſhip to their ſeveral Trades, according to the Laws of this Nation, (which makes their Trades a Freehold and Inheritance) and have Families depend upon them. Now if by <hi>Law</hi> there ſhould be any Reſtraint of wearing <hi>Engliſh made Silks and Hair Stuffs</hi> for any part of the Year, they would be deprived of their ſaid Freehold and Inheritance, and muſt of neceſſity not only be impove<g ref="char:EOLhyphen"/>riſhed, but want bread in one year, nay the greateſt part of them in one Months time, they having nothing but from hand to mouth, and what they get by their daily Labour to ſupply their daily Wants; and conſequently the greateſt part of them muſt be neceſſitated in a ſhort time either to take rude and deſperate courſes, or tranſport themſelves into Foreign Parts to get their Bread; there being no other Imployment (either Handicraft or others) that can receive one fourth part of ſo great a Number, conſidering that the <hi>Old and Young</hi> are hereby imployed, and cannot otherwiſe, but be chargable to the places of their Abode.</p>
+                     <p>If it be objected, that this <hi>Reſtraint</hi> is intended but for five Months in the Year, and therefore cannot have ſuch diſmal Effects as are before mentioned: For Anſwer it is ſaid, That theſe five Months <hi>Reſtraint</hi> of wearing them will take off the Imployment of the Ma<g ref="char:EOLhyphen"/>nufacturers thereof eight Months in the Year, and in little time amount to little leſs than a total Prohibition of them; for that the perſons that wear <hi>Engliſh made Silks and Hair Stuffs</hi> are generally of the beſt Quality, and all of them either Leaders or Followers of the neweſt Modes and Faſhions, and therefore it cannot be ſuppoſed that they will buy Silk Garments to lay by them all the Winter to wear in Spring, for that then newer Modes and Faſhions will come in, and there cannot be allowed leſs (one with another) than three or four Months for them to wear out a Silk Garment: So that take the five Months in the Year wherein they are not to be worn at all, and the three or four Months before, which muſt be allowed for the wearing of thoſe they have already bought, there will not remain above three or four Months at moſt for the Manufacturers to ſell their Silks and Stuffs; which amounts to little leſs than a total Prohibition, for this reaſon, for that the Merchants either cannot, or at leaſt will not, give credit to the <hi>Weaver or Throwſter</hi> the Year round; and if they ſhould, yet is there not one <hi>Weaver or Throwſter</hi> in a thouſand, that is able to ſupply their <hi>Workmen and Windſters</hi> with Money ſo long time, without Returns of Money for their Commodities, So that it is manifeſt notwithſtanding this Objection, the forementioned miſchiefs of Poverty and Depopulation muſt enſue upon it.</p>
+                     <p>And if it be objected, That it is not intended to reſtrain the wear of Stuffs made of <hi>Mohair Yarn,</hi> commonly called <hi>Chamlets,</hi> or other Stuffs, whereof the Woof or Warp ſhall be of <hi>Mohair Yarn;</hi> This muſt be acknowledged to be ſo, but withall, theſe Chamlets and Stuffs are limitted to be uſed for Cloaks and Coats for Men only, which do not work up the fourth Part of the Mohair Yarns imported, nor do they imploy one ſixth Part of the Hands that Mohair Yarns would imploy; for it is to be noted, that the ſeveral Commodities here<g ref="char:EOLhyphen"/>after named, <hi>viz.</hi>
+                     </p>
+                     <p>
+                        <list>
+                           <item>Barratines</item>
+                           <item>Prunella's</item>
+                           <item>Criſpiana's</item>
+                           <item>Tamaleta's</item>
+                           <item>Calamantoes</item>
+                           <item>Mohairs</item>
+                           <item>Farrendines</item>
+                           <item>Morella's</item>
+                        </list> and divers other Stuffs are made up of three Parts of Mohair Yarn, and but one Part of Silk; and theſe are chiefly for the uſe of Women and Children in the Winter ſeaſon who are not allowed to wear the ſame.</p>
+                     <pb n="2" facs="tcp:55261:11"/>
+                     <p>That as this will impoveriſh the Manufacturers of <hi>Silk and Hair Stuffs,</hi> ſo it will alſo dimi<g ref="char:EOLhyphen"/>niſh the conſumption of Wooll, and impoveriſh the Manufacturers thereof, and conſequent<g ref="char:EOLhyphen"/>ly cauſe yet a greater Depopulation of the Nation.</p>
+                     <p>Becauſe the greateſt part of our Cloths and Stuffs made here of <hi>Engliſh Wooll</hi> are tranſ<g ref="char:EOLhyphen"/>ported beyond the Seas, and chiefly to <hi>Turky;</hi> in exchange whereof the Merchants bring <hi>raw Silks and Mohair Yarn,</hi> which ſets ſo many thouſand people to work again; and if the Conſumption of <hi>Silk and Hair</hi> be abated in <hi>England,</hi> as it muſt needs be by the <hi>Reſtraint</hi> of the Wear thereof, the Exportation of Cloth muſt needs abate proportionably thereunto, for that there is little other Commodities proper for <hi>England</hi> to be had there in exchange for our Cloths; ſo that whereas the <hi>Turky Company</hi> in particular have of late exported twenty five or thirty thouſand Cloths in a Year, they may be reduced to ten or twelve thouſand, and by degrees to little or nothing; and conſequently there will be eighteen or twenty thouſand Cloths lie on the Clothiers hands in one Year more than they can vend; and that there will be ſuch an Abatement in the Exportation of <hi>Engliſh</hi> Cloths, if <hi>Engliſh made Silks and Hair Stuffs</hi> be not allowed to be worn five Moneths in the Year, will appear not onely from the former Argument, that there are little other Commodities to exchange in <hi>Turky</hi> for them but <hi>Silk and Hair;</hi> but alſo becauſe the Winter Seaſon, wherein theſe <hi>Silks and Stuffs</hi> are prohibited to be worn, is the chief time for the Conſumption of <hi>Silk and Hair Stuffs,</hi> for that the richeſt <hi>Silks and Stuffs</hi> are worn in that ſeaſon, and is the principal time for the Conſump<g ref="char:EOLhyphen"/>tion of them. And if this be true, (as moſt certain it is) that this will cauſe ſo great an Abate<g ref="char:EOLhyphen"/>ment in the Exportation of our Cloths made of <hi>Engliſh Wooll,</hi> what miſerable Poverty and Deſolation will it bring upon the Manufacturers of the Staple Commodity of this Nation, and in little time force them alſo to tranſport themſelves to Forein Parts, to the great Depo<g ref="char:EOLhyphen"/>pulation, Diſhonour, and Danger of the Nation; for hereby there will not be People ſuffici<g ref="char:EOLhyphen"/>ent to eat up the Corn, nor ſtrength to defend the Nation.</p>
+                     <p>If it be objected, That the enjoyning the wearing of Woollen Manufacture five Months in the Year, will anſwer the Conſumption of Wooll that is abated in the Exportations: It is anſwered, That it had need exceed it three times over; for that the making 60000 Cloths in a Year more than now is, will not ſet ſo many people at work, as the other will throw out of work; and if it could be ſuppoſed that there would be vent for ſo many more, it is preſumed there would not be found Wooll enough to make them, it being now ſomewhat a ſcarce Commodity, and raiſed in price a third part to what it was ſome years paſt. So that indeed at this time there is no juſt cauſe to complain of the want of Conſumption of Wooll, it being a good ſcarce and ready money Commodity; but that the <hi>Reſtraint of Silk and Hair Stuffs,</hi> and the enjoyning the Wear of Woollen, will neither increaſe the Conſumption of it to ſuch a degree, nor yet anſwerable to the Abatement of the Exportation of it by 15 or 20000 Clothes <hi>per annum,</hi> is proved thus; becauſe the Nobility, Gentry, and better ſort of Tradeſ<g ref="char:EOLhyphen"/>men, will not wear our courſe Cloths made of <hi>Engliſh Wooll</hi> onely, but fine <hi>Dutch</hi> Cloth, and Cloth made of <hi>Spaniſh Wooll,</hi> which in ſome of the fineſt Cloths have not above five or ſix pounds of <hi>Engliſh Wooll</hi> in a whole Cloth, as the Makers of fine Cloths will acknow<g ref="char:EOLhyphen"/>ledge; ſo that little <hi>Engliſh Wooll</hi> will be conſumed by them that uſe to wear Silks and Stuffs, and on the other hand the poor Manufacturers both of <hi>Woollen, Silk, and Hair,</hi> they general<g ref="char:EOLhyphen"/>ly wear our courſe Cloths and Stuffs made all of <hi>Engliſh Wooll,</hi> and theſe being either impo<g ref="char:EOLhyphen"/>veriſhed hereby that they cannot cloath themſelves but with Rags, or be forc'd beyond the Seas, muſt neceſſarily cauſe a far leſs Conſumption of our <hi>Engliſh Wooll.</hi> For it cannot be ſuppoſed that the expence of <hi>Engliſh Wooll</hi> in fine Cloths, can anſwer to the loſs of that expence which is now worn by theſe poor Creatures. So that indeed the expence of <hi>Engliſh Wooll</hi> will by this means be abated in <hi>England</hi> not onely ſo much, but much more than what the Abatements of the Exportations of our Woollen Manufactures amount unto, by means of ſuch a <hi>Reſtraint</hi> of the one, and enjoyning the other.</p>
+                     <p>That by <hi>Reſtraint</hi> of the Wear of any part of Silk, the Conſumption of Wooll muſt needs be leſſen'd, for that the ſeveral Stuffs hereafter mentioned, <hi>viz.</hi>
+                     </p>
+                     <p>
+                        <list>
+                           <item>Bombazines</item>
+                           <item>Anthorines</item>
+                           <item>Silk Sayes</item>
+                           <item>Crape</item>
+                           <item>Silk Maſquerades</item>
+                           <item>Stript Cheneys</item>
+                           <item>Virgins Beauty</item>
+                           <item>Drafts of all ſorts</item>
+                           <item>Druggets of all ſorts</item>
+                           <item>Silk Calamantoes</item>
+                           <item>Silk Glorioſa's of all ſorts</item>
+                           <item>Silk Shades</item>
+                           <item>Worſted Barratines</item>
+                           <item>Glaſſamines</item>
+                           <item>Katherina's</item>
+                           <item>Tameenes</item>
+                           <item>Eſtameenes</item>
+                           <item>Effegenes</item>
+                        </list> and all or moſt of <hi>Norwich Stuffs,</hi> with great numbers of other Stuffs, too many to be here inſerted, having but one part of Silk in them, and nine parts of Worſted, which is our <hi>Eng<g ref="char:EOLhyphen"/>liſh Sheeps Wooll,</hi> which through the Ingenuity of the <hi>Weavers</hi> and others concern'd therein, are made very acceptable for the uſe and wearing of divers perſons in the Winter Seaſon; yet becauſe of that little part of Silk in them, cannot then be worn in Apparel, to the leſſening
+<pb n="3" facs="tcp:55261:11"/> the Conſumption of Wooll, and to the taking away the chief part of the Trade and Imploy<g ref="char:EOLhyphen"/>ment of many thouſand perſons.</p>
+                     <p>This <hi>Injunction</hi> of the one, and <hi>Reſtraint</hi> of the other, will much depreſs the Proteſtant, and advance the Papal Intereſt, not only in <hi>England,</hi> but throughout <hi>Europe;</hi> and were it not but that by the unanimous Votes of this preſent <hi>Proteſtant Parliament,</hi> wherein (to the chearing of <hi>Engliſh Hearts)</hi> they have manifeſted ſo much zeal for the <hi>Proteſtant Intereſt</hi> and the Rights and Privileges of <hi>Engliſhmen,</hi> it would cauſe great ſuſpicion of ill deſigns; for there is nothing more conducing to the deſtruction of the <hi>Proteſtant Religion,</hi> and the ad<g ref="char:EOLhyphen"/>vancement of <hi>Popery,</hi> than the diſuniting of the Hearts and Affections of the <hi>Engliſh people,</hi> who are generally <hi>Proteſtants,</hi> and the beſt ſort of <hi>Proteſtants.</hi> And this the <hi>Jeſuits</hi> have not been wanting by all means to effect, and there is nothing more proper thereunto, than to bring off the Affections of the People from the Love of <hi>Parliaments</hi> by any means whatſo<g ref="char:EOLhyphen"/>ever, which they know are the greateſt Anticipation and Obſtruction of their damnable de<g ref="char:EOLhyphen"/>ſigns; but through the mercy of God they have in a great meaſure been hitherto prevented, and it's hoped yet will, by a timely proſpect of thoſe things that may cauſe it. And though it cannot be thought, that any true <hi>Engliſhman</hi> would knowingly countenance, but deteſt ſuch deſigns; yet it is feared if ſuch an Act ſhould paſs, it would not only alienate the Affections of many thouſand <hi>Proteſtants,</hi> by expoſing them to Want and Penury, and to beg their Bread, and ſeek it in other Countries; but alſo would make this great and populous Nation, (which at preſent under God is the Fortreſs of the <hi>Proteſtant Religion)</hi> indefenſible againſt the Papal deſigns, by ſcattering up and down in other parts of the World, thoſe that are ready at all times, and beſt adapted to defend it, and put them upon a temptation by their neceſſities and dwelling amongſt them to turn Papiſts. And this alſo in a ſhort time will carry away the Trade of the Nation (which is now increaſing and flouriſhing) to other parts of the World that are generally our Enemies; to the utter ruine of the whole Nation, both in Trade and Navigation, and the ſacred Religion thereof. And of what evil conſe<g ref="char:EOLhyphen"/>quence this will be to the Nobility and Gentry, by bringing down the price of their Lands, may eaſily be conceived by an ordinary Capacity.</p>
+                     <p>Again, If this <hi>Injunction</hi> of the one, and <hi>Reſtraint</hi> of the other, do paſs into a Law, it will not only deſtroy the moſt chief and principal Manufacture of the Nation, whereby ſo many Thouſand Native <hi>Proteſtants</hi> get their livelihood and ſubſiſtance, but (which is conſide<g ref="char:EOLhyphen"/>rable) it may truly be called the <hi>Proteſtant Trade,</hi> for it ſets to work and employs moſt of the Strangers and Foreign <hi>Proteſtants</hi> that fly from the tyrannical Perſecutions of the <hi>Papiſt</hi> 
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> other Countries, and <hi>They</hi> muſt be forced alſo to return again; for it is judged th<gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Parts of ten of the <hi>Proteſtant</hi> Strangers that comes over into <hi>England,</hi> are employ<gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Trade of <hi>Silk</hi> and <hi>Hair,</hi> to their great comfort both of Soul and Body: And the <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <hi>London</hi> do freely receive them, and that in ſo great numbers, that a very great <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <hi>Silk</hi> and <hi>Hair-weaving</hi> Trade is managed by them and their Dependants. And <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <hi>Silk</hi> and <hi>Hair</hi> Trade encouraged, as it's hoped it will by this <hi>Parliament,</hi> there might y<gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> received 100000 more into the Trade, ſo beneficial is it to <hi>England,</hi> and ſo conſiderable to the ſtrength of the <hi>Proteſtant</hi> Intereſt.</p>
+                     <p>But now if it ſhall pleaſe the <hi>Parliament</hi> inſtead of <hi>reſtraining</hi> the wear of our own Manu<g ref="char:EOLhyphen"/>factures, to <hi>prohibit</hi> the wearing of <hi>Silks</hi> and <hi>Stuffs</hi> Manufactured in Foreign Parts, this would certainly inrich and people the Nation, and cauſe a greater Conſumption of Wool, as alſo advance and ſtrengthen the Intereſt of the <hi>Proteſtant Religion.</hi>
+                     </p>
+                     <p>It will inrich and people the Nation, for that a great deal of the Money that is ſent out of the Nation to purchaſe the <hi>Silks</hi> and <hi>Stuffs</hi> Foreign Manufactured, will be kept among us; as alſo all that Money that is paid to Workmen abroad for the Manufucturing of theſe <hi>Silks</hi> and <hi>Stuffs,</hi> will be earned by the Natives and Strangers in <hi>England,</hi> and ſo make way for the Employment of many Thouſands more than is in the Nation.</p>
+                     <p>It will alſo increaſe the Conſumption of <hi>Engliſh</hi> Wool abundantly, for that there being more expence of Silk, becauſe of the Manufacturing of thoſe Silks here that uſe to come from other Parts, there will be alſo far greater quantities of Cloths made of <hi>Engliſh</hi> Wool exported in exchange for Silk; and beſides the expence of <hi>Engliſh</hi> Wool will not only be increaſed by the exportation of more Cloths, but a great deal more than is will be worn in <hi>England,</hi> and the Plantations belonging thereunto, by this means; for that Foreign Silks that come ready wrought from other Parts, eſpecially from <hi>Holland, France,</hi> and <hi>Eaſt-India,</hi> with their painted Calicoes, are generally ſlight and very cheap, and ſet up the meaner ſort of People (as Maid-Servants, and others) in the garbs of Gentry, which otherwiſe would wear the decent, uſeful, and profitable wear of Cloth, Kerſies, and other Stuffs made of Wool, as they would alſo do in the Plantations, for that our <hi>Engliſh</hi> Silks being generally rich and well made Silks, they cannot ſo well go to the price of them, and that this prohibition of Foreign-wrought Silks will certainly promote the Conſumption of Wool, is manifeſt by Experience; for ſince the late good Act was made for the prohibiting of <hi>French</hi> Silks,
+<pb n="4" facs="tcp:55261:12"/> (which it's hoped this <hi>Parliament</hi> will renew) there has been greater quantities of raw Silk imported, as alſo greater quantities of Woollen Cloths exported, than was in former years; beſides, greater numbers of People employed, both Native and Foreign <hi>Proteſtants,</hi> to the great benefit of the Nation; which expence of <hi>Engliſh</hi> Wool has been chiefly occaſioned from this cauſe, that more Silks has been made here in that time than before; which is an unde<g ref="char:EOLhyphen"/>niable Argument to prove, that the more Silks are worn in <hi>England</hi> if Manufactured here, the greater is the Conſumption of <hi>Engliſh</hi> Wool, for ſuch perſon as wears a Silk Garment, doth certainly expend more <hi>Engliſh</hi> Wool (that being the return of Woollen Cloth) than twenty Gentlemen that wears Cloth made of <hi>Spaniſh</hi> Wool, and fine <hi>Dutch</hi> Cloths: And in all probability, if Silks Manufactured here were encouraged, and Silks Foreign made pro<g ref="char:EOLhyphen"/>hibited to be worn, it would reduce and bring back the whole Trade of the Woollen Manu<g ref="char:EOLhyphen"/>facture into <hi>England</hi> in a little time, by preventing the exportation of Wool, for if Wool yeild as good or better price here than it doth in other Parts, as it will do if there be more occaſion for it, it will not be tranſported as now it is to <hi>France</hi> and <hi>Holland,</hi> by which means they gain a conſiderable ſhare of our Woollen Trade, to their great benefit both at home and abroad and to our great loſs and detriment.</p>
+                     <p>This muſt needs corroborate and ſtrengthen the Intereſt of the <hi>Proteſtant Religion,</hi> for that this Nation being the chief of all the <hi>Proteſtant</hi> Countries, the Riches and Populouſneſs of it muſt needs ſtrengthen it, as well as the Unity of them one unto the other, and this will certainly cauſe the Nation to flouriſh both in Riches and People, and through the Mercy and Bleſſing of God, make us yet more formidable and ſtrong againſt our implacable Enemies, by enabling of us not only to defend our ſelves againſt them, but to root <hi>Popery</hi> out of this Nation, and the reſt of His Majeſties Dominions.</p>
+                     <p>
+                        <hi>For theſe Reaſons, and many others that may be given, it is humbly prayed, That the</hi> Parlia<g ref="char:EOLhyphen"/>ment <hi>would be pleaſed to lay aſide that Bill which would reſtrain the wearing of Silks, and Stuffs Manufactured in</hi> England, <hi>which are ſo beneficial, and inſtead thereof, order a Bill to be brought in for the prohibiting the importation and wearing of Silks and Stuffs Manufactured in Foreign Parts, which are ſo plainly detrimental to the Intereſt of</hi> England: <hi>And the</hi> Engliſh <hi>Artiſts ſhall continue to pray, That as this</hi> Parliament <hi>have begun, ſo God would honour them ſo far, as to finiſh the deliverance of this Nation from</hi> Popery, <hi>and</hi> Slavery <hi>the effect of it.</hi>
+                     </p>
+                     <trailer>FINIS.</trailer>
+                  </div>
+                  <div type="title">
+                     <p>Weavers <hi>of</hi> LONDON.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:55261:12"/>
+                  <head>An ANSWER to the most Material Objections against the Bill for Reſtraining the <hi>Eaſt-India</hi> Wrought Silks, <hi>&amp;c.</hi> Humbly offered to the Conſideration of the Lords.</head>
+                  <div type="part">
+                     <p>
+                        <hi>Obj.</hi> THAT Trade is in its Nature free, finds its own Channel, and beſt directs its own Courſe.</p>
+                     <p>
+                        <hi>Anſ.</hi> All trading Nations have, and do at this Day put a reſtraint upon Trade according as their Circumſtances require: The <hi>French</hi> have many Years ſince, by <hi>extraordinary Impoſitions,</hi> prohibited all our <hi>Woollen Manufactures,</hi> and by that means have ſet them up in their own Country, to their great Advantage. The <hi>Dutch,</hi> who are little more than Carriers of Goods from one Country to another, yet do often prohibit, and for Inſtance, have by great Impoſitions prohibited our Dyed Woollen Manufactures, by which means they have gained that profitable Imployment. The <hi>Venetians</hi> have prohibited our Cloth: The <hi>Sweeds</hi> and <hi>Danes</hi> the like. The <hi>French</hi> have by ſevere Edicts prohibited all <hi>Indian Silks, Bengalls,</hi> and <hi>Painted Calicoes;</hi> and a Multitude of Inſtances might be given of this Nature. Our own <hi>Statute-Books</hi> are full of them; the <hi>Act</hi> of Navigation, and the <hi>Act</hi> for Preventing the Exportation of Wooll have been, and are of infinite Benefit to this Kingdom.</p>
+                     <p>
+                        <hi>Obj.</hi> That the Eaſt-India <hi>Trade</hi> is greatly beneficial to <hi>England.</hi>
+                     </p>
+                     <p>
+                        <hi>Anſ.</hi> If what the Writers for the <hi>Eaſt-India</hi> Company have aſſerted be true, That Three Parts of Four of the whole imported have been again exported to Foreign Parts, or if what the late <hi>Author</hi> of the Eſſay on the <hi>Eaſt-India Trade</hi> aſſerts be true, That one half has been exported and has brought in 600000 <hi>l.</hi> more than the prime Coſt in <hi>India,</hi> then this Trade, in that Reſpect, may well be accounted a profitable Trade to this Nation: But this, though often aſſerted, has not been made appear in ſuch manner as a Buſineſs of ſo great a concern to the <hi>Eaſt-India</hi> Company ought, or might have been; and we have great Reaſon to believe that no ſuch Quantities are, or ever were exported; But ſuppoſing that great Quantities were exported, this Bill does not extend to hinder that Trade.</p>
+                     <p>
+                        <hi>Obj.</hi> That it muſt be granted that the <hi>Eaſt-India-Trade</hi> in General is prejudicial to <hi>Europe,</hi> and if all by common Conſent would agree to deal no more with them, it would ſave the Expence of a great Treaſure; but ſince that cannot be done, it would be <hi>Egregious Folly</hi> in us to quit it.</p>
+                     <p>
+                        <hi>Anſ.</hi> The Reaſon why the <hi>Eaſt-India</hi> Trade is prejudicial, is, becauſe we draw from thence nothing of ſolid uſe, <hi>Materials to ſupport Luxury, Periſhable Commodities,</hi> and ſend thither <hi>Gold and Silver,</hi> which is there buried and never returns, and the Burden of this bears hard only on the Countries which conſume them, as the Author of the Eſſay has very well obſerved, and from thence inferr'd, That the <hi>French</hi> did wiſely to prohibit. Now if this be true, as undoubtedly it is, there cannot be greater or more <hi>cogent Argu<g ref="char:EOLhyphen"/>ments</hi> for the paſſing this Bill, which is not to deſtroy the whole Trade, but only part of that which their own Advocate acknowledge is very hard upon us, who are the Conſumers.</p>
+                     <p>
+                        <hi>Obj.</hi> The Bill now propoſed will be abſolutely deſtructive to the <hi>Eaſt-India</hi> Trade, and ſhould we quit the Hold we have in <hi>India,</hi> the <hi>Dutch</hi> will undoubtedly ingroſe the whole, which will be of dangerous Conſequence.</p>
+                     <p>
+                        <hi>Anſ.</hi> That what by this Bill is to be reſtrained cannot be computed to above one half of the home Conſumption, and the whole is accounted, by the Author of the Eſſay, but one half of the Trade; ſo that at moſt it will be leſſen'd but one Fourth Part, which by the Addition that may be made by bringing home <hi>Raw-Silks, Cotton Yarn, &amp;c.</hi> may in a great meaſure be made good; And why Three Parts and more ſhould not be carry'd on without the remainder, is very hard for us to imagine. The <hi>French</hi> have prohibited all <hi>Wrought Silks, Bengalls and Printed Callicoes;</hi> and yet they carry on their <hi>Eaſt-India</hi> Trade: and in caſe the <hi>Eaſt-India</hi> Company, either through Poverty or any other Reaſons, ſhould not be able or willing to carry it on, there are Merchants enough in <hi>England</hi> to take it up: But if we cannot trade there without the Conſent of the <hi>Dutch,</hi> who are now very pow<g ref="char:EOLhyphen"/>erful and can bring together 40 ſtrong Frigats (as the <hi>Author</hi> of the Eſſay tells us) which is much more than we are able or can pretend to do, they may as eaſily beat us out of the whole as of what will be ſtill left. Therefore the beſt way as we humbly conceive to ſecure us from thoſe Fears, is, to keep our <hi>Treaſure</hi> to imploy our own people, and increaſe our ſtrength at home.</p>
+                     <p>
+                        <hi>Obj.</hi> The Company ſend great quantities of our <hi>Manufactures,</hi> and have in return <hi>Wrought Silks.</hi>
+                     </p>
+                     <p>
+                        <hi>Anſ.</hi> The Company are obliged to ſend 100000 <hi>l.</hi> worth of our <hi>Manufactures,</hi> but have not done it; for by Accounts taken out of the Cuſtom houſe Books, there cannot be found 100000 <hi>l.</hi> worth in Two years laſt paſt, and not 20000 <hi>l.</hi> worth laſt year, and how much of this has been really Exported and ſent to <hi>India</hi> we know not, but have great rea<g ref="char:EOLhyphen"/>ſon to believe that great Quantities were either not ſhipt off, or not ſent thither, but to <hi>Spain</hi> or other Parts where they take in <hi>Bullion;</hi> for this is moſt certain that the <hi>Indians</hi> wear none, or ſo little of our Manufactures as is not worth mentioning: 'Tis true that ſince the Company have been obliged they have ſent ſome Cloth; which they have ſold in the Gulph of <hi>Perſia,</hi> and brought in returns <hi>Raw Silk,</hi> which have been wrought up by
+<pb n="2" facs="tcp:55261:13"/> the <hi>Indians</hi> in the <hi>Bay</hi> of <hi>Bengall</hi> into ſilks commonly called <hi>Perſian Taffeties,</hi> and the like, and from thence brought to <hi>England,</hi> whereas formerly the <hi>Turkey Merchants</hi> uſed to ſupply the <hi>Perſians</hi> with cloth, and brought in Return <hi>Raw Silk,</hi> and might do ſo again if the Trade were turned into its old Channel.</p>
+                     <p>
+                        <hi>Obj.</hi> That no Country Manufactures are made ſo dear as the <hi>Engliſh,</hi> and if we would have a Trade we muſt make our Manufactures cheaper.</p>
+                     <p>
+                        <hi>Anſ.</hi> To this we think we cannot give a better Anſwer than what Sir <hi>Joſ. Child</hi> gave in the like Caſe, which we find in the Preface of his Book called <hi>A Diſcourſe on Trade,</hi> his Words are theſe, <hi>I affirm and can prove be's miſtaken in Fact; for the</hi> Dutch, <hi>with whom we principal<g ref="char:EOLhyphen"/>ly contend in Trade, give generally more Wages for all their Manufactures, by at leaſt Two Pence in the Shilling, than the</hi> Engliſh. And adds farther, <hi>That whereſoever Wages are high univer<g ref="char:EOLhyphen"/>ſally throughout the whole World, it is an infallible Evidence of the Riches of that Country: and wherever Wages for Labour runs low, its a Proof of the Poverty of that Place. That it is multi<g ref="char:EOLhyphen"/>tude of People and good Laws, ſuch as cauſe an increaſe of People, that principally enrich any Coun<g ref="char:EOLhyphen"/>try: And if we retrench (by Law) the Labour of our People, we drive them from us to other Coun<g ref="char:EOLhyphen"/>tries that give better Rates, and ſo the</hi> Dutch <hi>have dreined us of our</hi> Seamen <hi>and</hi> Woollen Ma<g ref="char:EOLhyphen"/>nufactures: <hi>And we the the</hi> French <hi>of their</hi> Artificers <hi>and</hi> Silk Manufacturers. And in Pag. 175. diſcourſing of the ways of enlarging our Trade, among many others, he gives this Advice, <hi>That it's our Intereſt by Example, and otherwiſe not diſtaſtful, above all kinds of Commodities to pre<g ref="char:EOLhyphen"/>vent as much as may be the Importation of</hi> Foreign Manufactures, <hi>and to encourage thoſe Trades moſt that vend moſt of our Manufactures, and ſupply us with Materials to be further Manufactured.</hi>
+                     </p>
+                     <p>
+                        <hi>Obj.</hi> That we want Hands, not Manufactures in <hi>England,</hi> and Laws to compel the Poor to work and therefore want more an Act to ſet up publick Work-houſes to force them that are not willing.</p>
+                     <p>
+                        <hi>Anſw.</hi> as the Caſe now ſtands, we have Hands more than ſufficient to carry on the Manufactures which the <hi>Eaſt-India</hi> Trade leaves us; but if this Bill paſs we have great Reaſon to believe that in a very ſhortime, Imployment will be found for a great number of thoſe now out of work, and for ſome of the 1200000 which the Author of the Eſſay ſays, he thinks there are now receiving Alms in this Kingdom. It were to be wiſhed that there were Publick Workhouſes for the Imployment of the unwilling Poor; but before they can be imploy'd in ſuch Places it will be neceſſary to know how the Manufactures can be diſpoſed: And with Submiſſion, we humbly conceive there can be no better way found for their vent than by reſtraining the Expence of theſe Foreign Commodities, and that this will be greatly for the Intereſt of this Kingdom. To confirm us in this Opinion, we have the Judgment of Sir <hi>Joſ. Child,</hi> that great Champion for the <hi>India</hi> Cauſe, who in the Preface of his Book of Trade ſays, <hi>That the Expence of Foreign Commodities, eſpecially Foreign Manufactures, is the worſt Expence a Nation can be inclinable to, and therefore ought to be prevent<g ref="char:EOLhyphen"/>ed as much as poſſible.</hi>
+                     </p>
+                     <p>
+                        <hi>Obj.</hi> That it's the Intereſt of this Nation to have our own Wooll cheap, and cheaply manufactured, whereby we may be enabled to under-ſell all Nations, and diſcourage all People to ſet it up.</p>
+                     <p>
+                        <hi>Anſ.</hi> To do this we muſt bring down the Price of Wool and Workmanſhip conſiderably, and then Proviſions muſt fall in Proportion to anſwer the Wages, or elſe the Poor cannot purchaſe them; and if ſo, <hi>Rents</hi> muſt abate, when this is done, other Nations who contend with us in our Manufactures muſt do likewiſe, and after all this, the <hi>Indian</hi> that works for a Peny a Day, will be able to underſell us all; ſo that after all our reducing, we are not like to underſell all Nations, unleſs we ſhould ſend our Wooll to <hi>India</hi> to be manufactur'd.</p>
+                     <p>
+                        <hi>Obj.</hi> That the home Conſumption is no Advantage to the Nation.</p>
+                     <p>
+                        <hi>Anſ.</hi> If a <hi>Penny</hi> ſaved be the ſureſt <hi>Penny</hi> got, then the ſaving our Pence by the Home Con<g ref="char:EOLhyphen"/>ſumption of our own, inſtead of expending them for <hi>Foreign Manufactures,</hi> muſt certainly be greatly for the Advantage of this Kingdom.</p>
+                     <p>
+                        <hi>Obj.</hi> It's the Intereſt of this Nation to wear <hi>Eaſt India</hi> Goods', which are very Cheap, and to Export our own which are much dearer.</p>
+                     <p>
+                        <hi>Anſw.</hi> If we could find a Forreign Market for our own Manufactures, this Objection would be of force, but (with ſubmiſſion we ſay) that this is impoſſible; for it is very well known, that all <hi>Forreign Markets</hi> have been plentifully ſupplyed with as much of our Wollen Manufactures as could be vended, and generally over-ſtocked; and yet notwithſtanding our Exporters do not carry off above one third part, (as the Perſons concern'd in the <hi>Aul<g ref="char:EOLhyphen"/>nage,</hi> who beſt know how much is made, have oft-times aſſerted) and in caſe a ſtop be not put to the <hi>Eaſt India</hi> Trade, our Export muſt be leſs; for by reaſon of the great ware of <hi>Muſlings</hi> and <hi>Callicoes,</hi> we have already loſt the greateſt part of our Trade for Wollen Cloaths, <hi>&amp;c.</hi> to <hi>Germany, Sileſia, &amp;c.</hi> from whence we had formetly great quantities of <hi>Linnens,</hi> but when we could no longer take their Linnens, they were forced to ſet up a Manufacture of Wollen, by which we have almoſt wholly loſt that profitable Trade. We have now a Trade with <hi>Spain, Italy,</hi> and <hi>Turky,</hi> from whence we Import great quantities of <hi>Wool, Raw Silk,</hi> and <hi>Grogern-yarn,</hi> but if we muſt wear <hi>Eaſt India</hi> Manufactures, we cannot uſe their Silk; and if ſo, it's reaſonable to conclude, that they muſt ſhortly follow the exam<g ref="char:EOLhyphen"/>ple of the <hi>Germans.</hi> As to our <hi>Plantations</hi> and <hi>Ireland,</hi> to which we ſend great quantities of our Manufactures, if the <hi>Eaſt India Silks, &amp;c.</hi> are the Mode here, they will be ſo there, the orders that are ſent from thence, being to ſend over ſuch Manufactures, as are moſt Faſhi<g ref="char:EOLhyphen"/>onable
+<pb n="3" facs="tcp:55261:13"/> in <hi>England;</hi> ſo that inſtead of a greater Exportation, we ſhall almoſt wholly loſe what we now have. But in caſe it were poſſible to vend more, we could make much grea<g ref="char:EOLhyphen"/>ter quantities, as we did laſt year, when there was a conſiderable demand for them.</p>
+                     <p>
+                        <hi>Obj.</hi> That if we do not uſe theſe <hi>India</hi> Goods, they will be carried to other places, where we now ſend our Manufactures, and be there uſed inſtead of them.</p>
+                     <p>
+                        <hi>Anſw.</hi> If this be true, then the <hi>East-India</hi> Trade will not receive ſo great Prejudice as is pretended; but this is fallacious, for the Exporters always ſend to furniſh all foreign Markets with what they want; and we are very ſenſible, that they have and will be ſuf<g ref="char:EOLhyphen"/>ficiently ſupplied with theſe <hi>India</hi> Manufactures, which will very much obſtruct our Trade, and therefore we humbly conceive its highly Reaſonable this Bill ſhould paſs, that ſeeing the Miſchief they will do us in foreign Markets cannot be prevented, we may in ſome meaſure be helpt, by preventing our falling into the ſame Miſchief at home.</p>
+                     <p>
+                        <hi>Obj.</hi> That theſe <hi>India</hi> Manufactures do not much hinder the Conſumption of our own Manufa<g ref="char:EOLhyphen"/>ctures, but chiefly thoſe of <hi>Italy, France,</hi> and <hi>Holland.</hi>
+                     </p>
+                     <p>
+                        <hi>Anſw.</hi> They do directly hinder the Conſumption of vaſt Quantities of our own Ma<g ref="char:EOLhyphen"/>nufactures, as the <hi>Norwich, London, Canterbury</hi> Antherines, and other ſorts of Stuffs; as alſo the Manufactures made in <hi>Briſtol, Ketering, Sudbury, Stowmarket, Kendal,</hi> and divers other places in this Kingdom; and they do and will in a great Meaſure, deſtroy all our <hi>Silk Manufactures,</hi> which of late are brought to ſuch perfection, as <hi>better Silks</hi> are not made in any part of the World, and are cheaper to us than any can come from the fore-menti<g ref="char:EOLhyphen"/>oned Countries, and have almoſt wholly beat them out of uſe. So that of late Years there has been no conſiderable Quantities Imported, except <hi>black Luteſtrings, Alamodes,</hi> and <hi>Velvets,</hi> for which Uſe the <hi>India Silks</hi> will not ſerve; ſo that the <hi>India</hi> Manufactures are directly oppoſite and deſtructive to our own.</p>
+                     <p>
+                        <hi>Obj.</hi> That Silk is a Manufacture of foreign Extract, and if the Wearing of Silk could be Abo<g ref="char:EOLhyphen"/>liſhed, it would be Beneficial to the Kingdom.</p>
+                     <p>
+                        <hi>Anſw.</hi> That the Aboliſhing of all foreign wrought Silks, that are the Returns of our Money, would undoubtedly be Beneficial to the <hi>Kingdom;</hi> and it is that we now only Contend for. But we do aſſert, and plainly demonſtrate, That the wearing of Silks, which are Manufactured here of ſuch Raw Silk as are the Returns of our Woollen, and other Manufactures Exported (as the <hi>Italian</hi> and <hi>Turkey</hi> Silks are) is much more Beneficial to this Kingdom, then if we wear them not, for by this means we imploy double the number of People we ſhould do, if we were Clad in our own Manufactures.</p>
+                     <p>
+                        <hi>Obj.</hi> That if we take not theſe Goods, the <hi>Indians</hi> will let us have no <hi>Salt-petre, Muſlins, White Calicoes, Pepper, Drugs, Raw Silks,</hi> and other Goods we want.</p>
+                     <p>
+                        <hi>Anſw.</hi> This is ſuch an Objection as ſcarce ever was made before by Mankind; 'tis juſt as if we ſhould ſay, we will not let the <hi>Venetians</hi> and other Nations we Trade with, have our <hi>Lead, Tynn,</hi> &amp;c. becauſe they will not take our Cloth. The <hi>French</hi> have Prohibited all their <hi>Silks</hi> and <hi>Painted Calicoes</hi> above ten Years paſt, yet have ever ſince Traded with the <hi>Indians</hi> for theſe Commodities, and we believe never yet wanted <hi>Salt-petre,</hi> &amp;c. and why they ſhould refuſe us theſe Goods is hard to imagine.</p>
+                     <p>
+                        <hi>Obj.</hi> If this Bill paſs, it will be to the Advantage of the <hi>Scotch</hi> and <hi>Dutch,</hi> who will bring in theſe <hi>India</hi> Goods among us at a much dearer Rate.</p>
+                     <p>
+                        <hi>Anſw.</hi> One would think in common Reaſon, there cannot be a more effectual Courſe taken to hinder that, than by Prohibiting the wearing of them: For if they may be free<g ref="char:EOLhyphen"/>ly worn, the <hi>Scotch</hi> and <hi>Dutch</hi> will have a great Advantage, becauſe they pay little or no Duty to what our <hi>East-India</hi> Merchants muſt pay; and the very hopes, that the Perſons who were concerned in promoting the <hi>Scotch</hi> Company, had of vending the Wrought Manufactures in <hi>England,</hi> was, as we have good Reaſons to believe, one great cauſe for the ſetting up that Trade. For this is certain, that ſome of the moſt <hi>zealous Promoters</hi> of that Company, are the <hi>greatest Sticklers</hi> againſt this Bill.</p>
+                     <p>
+                        <hi>Obj.</hi> That the Paſſing this Bill will diſcourage Navigation.</p>
+                     <p>
+                        <hi>Anſw.</hi> This is a very ſtrange Objection, For one Ship of 500 Tons Freighted with theſe Goods will bring in above 1,000,000, <hi>l.</hi> worth, at but <hi>20s. per pound,</hi> which is a moderate Value; many of theſe Silks being worth 3 and 4 <hi>l. per pound,</hi> ſo that if this ſingle Freight were worn here, it will ruine above twenty times as much Shipping, which is employed in the Coaſting Trade, to furniſh the <hi>Engliſh Manufacturers,</hi> and their dependance with <hi>Coles, Corn, Butter, Cheeſe,</hi> and other Neceſſaries, as is eaſie to be more fully demonſtrated.</p>
+                     <p>
+                        <hi>Obj.</hi> If there be a multitude of Hands want Work, the Herring Fiſhery would employ them.</p>
+                     <p>
+                        <hi>Anſw.</hi> The Men, Women, and Children, that are employed in the <hi>Woollen</hi> and <hi>Silk</hi> Ma<g ref="char:EOLhyphen"/>nufactures, are very unfit to catch Fiſh: But ſince it is objected, That if this Bill paſs it will diſcourage <hi>Navigation,</hi> here's a proper <hi>Salvo</hi> for that <hi>Sore,</hi> let the <hi>Merchants</hi> employ their Stock, and the <hi>Seamen</hi> their time, to catch theſe Herrings, and then we are very ſure they would be much better imployed for the <hi>Advantage</hi> of the Nation than they now are.</p>
+                     <p>
+                        <hi>Obj.</hi> That if the <hi>Eaſt India</hi> Manufactures did greatly prejudice our own, it is not adviſeable they ſhould be Prohibited in this time of War, becauſe of the Companies <hi>great Loſſes</hi> and Misfortunes, and their want of Money.</p>
+                     <p>
+                        <hi>Anſw.</hi> That the Company have met with great Loſſes muſt needs be granted, and that
+<pb n="4" facs="tcp:55261:14"/> ſo great a Treaſure fell into the Enemies hands, has been of very <hi>Ill Conſequence</hi> to the Nati<g ref="char:EOLhyphen"/>on, and none knows but ſuch Misfortunes may again attend them, and therefore the leſs Trade of this kind in ſo dangerous a time, the better for the Nation; If they want Money ſo do the Engliſh Manufacturers, and whether the Money we now have to Trade with ſhall be ſent out to purchaſe Goods fully Manufactured for our own Conſumption, which may fall into the Enemies Hands, or imployed to carry on our own Manufactures, we think, with humble Submiſſion, is no hard queſtion to be reſolved; for nothing is more vi<g ref="char:EOLhyphen"/>ſible, than that the <hi>Eaſt India</hi> Manufactures that have been lately Imported, takes away great quantities of our Money, which would otherwiſe be imployed in the purchaſing of our own <hi>Silks and Stuffs,</hi> and thereby give Imployment and Incouragement to many Thouſand Families, who are now in a ſtarving condition.</p>
+                     <p>
+                        <hi>Obj.</hi> The Clauſe in the Bill which lays the Proof on the Retailers is very unreaſonable.</p>
+                     <p>
+                        <hi>Anſw.</hi> Without this the whole Bill will be rendred ineffectual, and therefore the like Clauſes has been incerted in all Acts of this Nature (as in our Prohibition of <hi>French Silks,</hi> &amp;c.)</p>
+                     <p>
+                        <hi>Obj.</hi> That if this Bill paſs, it will deſtroy the <hi>Credit</hi> of the <hi>Nation,</hi> and greatly Injure thoſe who have lent Money upon the <hi>Cuſtoms</hi> of the <hi>Eaſt India</hi> Goods.</p>
+                     <p>
+                        <hi>Anſw.</hi> The <hi>Cuſtoms</hi> that are given for the Security of Moneys lent by the perſons com<g ref="char:EOLhyphen"/>plaining (which for the moſt part are <hi>Linnen Drapers</hi> and <hi>Eaſt India</hi> men) conſiſts not on<g ref="char:EOLhyphen"/>ly of <hi>Eaſt India</hi> Goods, but alſo of <hi>Wines, Vinegar, Brandy, Tobacco,</hi> all <hi>Linnens, Wood, Iron, Oyl, Flax, Hemp, Paper,</hi> and abundance of other Commodities, too numerous to be here in<g ref="char:EOLhyphen"/>certed; and the whole <hi>Eaſt India</hi> Trade has hitherto raiſed but a very inconſiderable part of the ſaid <hi>Cuſtoms,</hi> yet the Security has been well anſwered. Now in caſe the <hi>Cuſtoms</hi> ſhould be increaſed by a greater quantity of <hi>Eaſt India</hi> wrought Silks, which muſt be worn here, they will deſtroy our own Manufactures, and thereby Impoveriſh not onely our Ma<g ref="char:EOLhyphen"/>nufacturers, and their dependants, but the <hi>Nation in general,</hi> by which means they will be diſabled from conſuming the <hi>Wines, Brandy, Tobacco,</hi> and other Merchandize, which will, (as we have great reaſon to believe) much more weaken the ſame Security, then this Bill can do; And not only ſo, but much leſſen the Exciſe of <hi>Beer</hi> and <hi>Ale,</hi> and other the <hi>Reve<g ref="char:EOLhyphen"/>nues</hi> and <hi>Taxes</hi> which are given to ſupport a <hi>Juſt</hi> and <hi>Neceſſary War,</hi> for the preſervation of our <hi>Lives, Liberties,</hi> and <hi>Properties.</hi>
+                     </p>
+                  </div>
+                  <div type="title">
+                     <p>AN ANSWER to the moſt <hi>Material Objections</hi> againſt the BILL For Reſtraining <hi>East-India</hi> Wrought Silk, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:55261:14"/>
+                  <p>New <hi>East-India</hi> Companies <hi>REASONS,</hi> Offer'd <hi>Anno</hi> 1698. <hi>Contradictory.</hi> To their <hi>REASONS</hi> Offer'd <hi>Anno</hi> 1699.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:55261:15"/>
+                  <pb facs="tcp:55261:15" rendition="simple:additions"/>
+                  <head>
+                     <hi>Prince Bulter's Tale:</hi> REPRESENTING The State of the <hi>Wooll-Caſe,</hi> or the <hi>Eaſt-India Caſe</hi> truly Stated.</head>
+                  <head>The Argument. Part 1.</head>
+                  <argument>
+                     <lg>
+                        <l>Shews why in <hi>Dogrel</hi> Verſe this <hi>Tale</hi>
+                        </l>
+                        <l>Was firſt begun o'r Pot of <hi>Ale;</hi>
+                        </l>
+                        <l>Shews <hi>Riſe,</hi> and <hi>Progreſs</hi> of the Trade</l>
+                        <l>To <hi>India</hi> drove, and <hi>Who</hi> 'twas made</l>
+                        <l>The firſt ſteps to our <hi>Wooll</hi> Trades ruin,</l>
+                        <l>And how it prov'd to <hi>Folks</hi> undoing;</l>
+                        <l>What done to ſtop its further growth,</l>
+                        <l>And how thoſe <hi>Meaſures</hi> came to nought;</l>
+                        <l>How <hi>Golden Fleece</hi> lay very dead;</l>
+                        <l>How <hi>Act for Burying</hi> it was made;</l>
+                        <l>And how, if we were <hi>truly</hi> Wiſe,</l>
+                        <l>We ſhould their <hi>Trangums</hi> all deſpiſe;</l>
+                        <l>Our <hi>Money</hi> ſave, <hi>Employ</hi> our Poor,</l>
+                        <l>From <hi>ſtarving</hi> keep, and from our Door;</l>
+                        <l>Who then cou'd drink, Some <hi>Ale,</hi> Some <hi>Sherry,</hi>
+                        </l>
+                        <l>And <hi>Laugh,</hi> and <hi>Quaff,</hi> and all be merry.</l>
+                     </lg>
+                  </argument>
+                  <div type="prologue">
+                     <head>PROLOGUE.</head>
+                     <lg>
+                        <l>IN place, one day, as I was ſtanding,</l>
+                        <l>Where folks were printed Papers handing</l>
+                        <l>To thoſe that wou'd, or read, or buy 'em,</l>
+                        <l>Theſe <hi>Remarks</hi> made, as I ſtood nigh 'em:</l>
+                        <l>I <hi>ſaw,</hi> a mighty, <hi>zealous</hi> Crew,</l>
+                        <l>Some for <hi>Old Stock,</hi> and ſome for <hi>New,</hi>
+                        </l>
+                        <l>Were <hi>Pro</hi> and <hi>Conning</hi> their hard Caſes,</l>
+                        <l>By the chief <hi>Dons</hi> of ſeveral Claſſes,</l>
+                        <l>'Mongſt which <hi>Grandces</hi> I ſometimes fell in,</l>
+                        <l>And heard moſt <hi>diſmal Stories</hi> telling;</l>
+                        <l>The one, the other, much Arraign'd,</l>
+                        <l>And <hi>credit</hi> of their Cauſes ſtain'd.</l>
+                        <l>Thus having heard each ſide complain,</l>
+                        <l>Methoughts, 'mongſt both, were <hi>K—s</hi> in grain:</l>
+                        <l>And that when ſuch, fall out and ſcold,</l>
+                        <l>An Injur'd <hi>Caſe</hi> might then be told:</l>
+                        <l>And on the Old Proverb made me think,</l>
+                        <l>The more they ſtir, the more they ſtink;</l>
+                        <l>And did conclude from all theſe Hearings,</l>
+                        <l>There's neither Barrel better Herrings.</l>
+                        <l>I <hi>ſaw</hi> a <hi>Caſe,</hi> concerning Wooll,</l>
+                        <l>With Reaſons ſtuft, both <hi>clear</hi> and full;</l>
+                        <l>Which plainly ſhew'd our <hi>certain</hi> ruin,</l>
+                        <l>Theſe <hi>mighty Talkers</hi> were purſuing,</l>
+                        <l>Yet <hi>ſaw,</hi> that many, at firſt ſight on't,</l>
+                        <l>There were, that made but very light on't,</l>
+                        <l>And found there were but <hi>few</hi> attend it,</l>
+                        <l>But <hi>very few</hi> that wou'd defend it;</l>
+                        <l>
+                           <hi>Amaz'd</hi> I ſtood, and <hi>much</hi> dejected,</l>
+                        <l>So great a <hi>Cauſe</hi> ſhould be neglected.</l>
+                        <l>Soon after that, I <hi>ſaw,</hi> with vigour,</l>
+                        <l>Verſes <hi>catch'd</hi> up, 'bout fight of <hi>Tyger,</hi>
+                        </l>
+                        <l>By <hi>Old</hi> and <hi>Young,</hi> by <hi>Fools</hi> and <hi>Witty,</hi>
+                        </l>
+                        <l>And by the great <hi>Dons</hi> of the <hi>City.</hi>
+                        </l>
+                        <l>Thought I, this <hi>Caſe,</hi> if I ſhould write,</l>
+                        <l>In ſuch a manner, Folks would buy't,</l>
+                        <l>And read, for ſake of <hi>Dogrel</hi> Rhime,</l>
+                        <l>Which Thought improv'd; I loſt no time,</l>
+                        <l>But preſently, o'er Pot of <hi>Ale,</hi>
+                        </l>
+                        <l>Writ a great part of this ſad <hi>Tale,</hi>
+                        </l>
+                        <l>Which, if you like, you may have more on't,</l>
+                        <l>For I now have, or ſhall, have ſtore on't.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <head>The Tale.</head>
+                     <lg>
+                        <l>WHen firſt the <hi>Indian</hi> Trade began,</l>
+                        <l>And Ships beyond the <hi>Tropicks</hi> ran,</l>
+                        <l>In queſt of various <hi>Drugs</hi> and <hi>Spices,</hi>
+                        </l>
+                        <l>And ſundry other <hi>ſtrange</hi> Devices,</l>
+                        <l>
+                           <hi>Saltpetre, Drugs, Spice,</hi> and like Trading,</l>
+                        <l>Compos'd the bulk of all their Lading:</l>
+                        <l>
+                           <hi>Bengals,</hi> and <hi>Silks,</hi> of <hi>Indians</hi> making,</l>
+                        <l>Our <hi>Merchants</hi> then refus'd to take in,</l>
+                        <l>Knowing it wou'd their Country <hi>ruin,</hi>
+                        </l>
+                        <l>And might prove to their <hi>own</hi> undoing.</l>
+                        <l>Nor did they carry <hi>Gold</hi> or <hi>Bullion.</hi>
+                        </l>
+                        <l>To fetch home what Supplants our <hi>Woollen;</hi>
+                        </l>
+                        <l>Nor were this <hi>Nation</hi> fond to wear</l>
+                        <l>Such <hi>Indian</hi> Toys, which coſt ſo dear:</l>
+                        <l>Then were we clad in <hi>Woollen</hi> Stuffs,</l>
+                        <l>With <hi>Cambrick</hi> Bands, and <hi>Lawn</hi> Ruffs,</l>
+                        <l>Or elſe in <hi>Silk,</hi> which was Imported</l>
+                        <l>For <hi>Woollen</hi> Goods, which we Exported;</l>
+                        <l>Which <hi>Silk</hi> our <hi>Engliſh</hi> Weavers bought,</l>
+                        <l>And into various Figures wrought.</l>
+                        <l>Then ſcarce a <hi>Child</hi> was to be ſeen,</l>
+                        <l>Without <hi>Say</hi> Frock, that was of green,</l>
+                        <l>Our <hi>Hangings, Beds,</hi> our <hi>Coats,</hi> and <hi>Gowns,</hi>
+                        </l>
+                        <l>Made of our <hi>Wooll</hi> in Clothing Towns.</l>
+                        <l>This Nation then was <hi>Rich</hi> and <hi>Wealthy,</hi>
+                        </l>
+                        <l>And in a State which we call'd healthy.</l>
+                     </lg>
+                     <lg>
+                        <l>But ſince the Men of <hi>Gath</hi> aroſe,</l>
+                        <l>And for their Chief <hi>Goliah</hi> choſe.</l>
+                        <l>And ſince that mighty Giants Reign,</l>
+                        <l>Whoſe chiefeſt <hi>Aim</hi> was private Gain,</l>
+                        <l>This Trade was drove on by ſuch meaſures,</l>
+                        <l>As ſoon <hi>Exhauſted</hi> much our Treaſures,</l>
+                        <l>For then our <hi>chiefeſt Artiſts</hi> went</l>
+                        <l>With <hi>Patterns,</hi> and with <hi>Money</hi> ſent,</l>
+                        <l>To make and purchaſe <hi>Indian</hi> Ware,</l>
+                        <l>For which this Nation pays full dear.</l>
+                        <l>Then by great Gifts of <hi>fineſt</hi> touches,</l>
+                        <l>To <hi>Lords</hi> and <hi>Ladies, Dukes</hi> and <hi>Ducheſs,</hi>
+                        </l>
+                        <l>So far prevail'd, as ſet the faſhion,</l>
+                        <l>Which <hi>Plague</hi>-like ſoon ſpread o'r the Nation.</l>
+                        <l>Our <hi>Ladies</hi> all were ſet a gadding,</l>
+                        <l>After theſe Toys they ran a madding;</l>
+                        <l>And nothing then wou'd pleaſe their fancies,</l>
+                        <l>Nor <hi>Dolls,</hi> nor <hi>Joans,</hi> nor wanton <hi>Nancies,</hi>
+                        </l>
+                        <l>Unleſs it was of <hi>Indians</hi> making;</l>
+                        <l>And if 'twas ſo, 'twas <hi>wondrous</hi> taking.</l>
+                        <l>This <hi>Antick</hi> humour ſo prevail'd,</l>
+                        <l>Tho' many 'gainſt it <hi>greatly</hi> rail'd,</l>
+                        <l>'Mongſt all degrees of <hi>Female</hi> kind,</l>
+                        <l>That nothing elſe could pleaſe their mind.</l>
+                        <l>Tell 'em the following of ſuch faſhion,</l>
+                        <l>Wou'd <hi>beggar</hi> and <hi>undo</hi> the Nation,</l>
+                        <l>And <hi>ruin</hi> all our Labouring Poor,</l>
+                        <l>That muſt, or <hi>ſtarve,</hi> or beg at door,</l>
+                        <l>They'd not at all regard your ſtory,</l>
+                        <l>But in their <hi>painted</hi> Garments glory;</l>
+                        <l>And ſuch as were not <hi>Indian</hi> proof,</l>
+                        <l>They <hi>ſcorn'd,</hi> deſpis'd, as paltry Stuff:</l>
+                        <l>And like gay <hi>Peacocks,</hi> proudly ſtrut it,</l>
+                        <l>When in our Streets along they foot it.</l>
+                        <pb facs="tcp:55261:16"/>
+                        <l>This humour <hi>strangely</hi> thus prevailing,</l>
+                        <l>Set all the <hi>poorer</hi> ſort a railing,</l>
+                        <l>Or elſe with <hi>grief</hi> their Caſe bewailing.</l>
+                        <l>The <hi>richer</hi> ſeeing what was doing,</l>
+                        <l>And how the <hi>Nation</hi> ran to <hi>ruin,</hi>
+                        </l>
+                        <l>To <hi>King</hi> in Council did complain,</l>
+                        <l>In time of <hi>Charles</hi> the Second's Reign,</l>
+                        <l>On which were ſeveral <hi>Lords</hi> appointed,</l>
+                        <l>By him who was the Lords Anointed,</l>
+                        <l>To hear the Caſe, and <hi>ſad</hi> Complainings,</l>
+                        <l>Of thoſe that <hi>Then</hi> were for Reſtrainings;</l>
+                        <l>Who <hi>plainly</hi> did their Lordſhips tell,</l>
+                        <l>What <hi>miſchiefs</hi> to our Trade befel;</l>
+                        <l>How both our <hi>Men</hi> and <hi>Bullion</hi> went</l>
+                        <l>To work in <hi>India,</hi> and be ſpent</l>
+                        <l>In needleſs <hi>Toys,</hi> and gawdy <hi>Dreſſes,</hi>
+                        </l>
+                        <l>For <hi>Ladies, Madams, Trulls,</hi> and <hi>Miſſes.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>The <hi>Caſe</hi> thus heard, they were inclin'd</l>
+                        <l>Some proper Remedy to find;</l>
+                        <l>And ſomething was in order doing,</l>
+                        <l>To put a ſtop to further <hi>ruin,</hi>
+                        </l>
+                        <l>But by the <hi>Craft</hi> of great <hi>Goliah,</hi>
+                        </l>
+                        <l>Who all the <hi>Hoſt</hi> ſtood in defy-a.</l>
+                        <l>There is this <hi>ſtory</hi> paſſing Current,</l>
+                        <l>That ſay 'twas he that ſtopt this torrent,</l>
+                        <l>By pouring <hi>Gold</hi> in plenteous ſhowers,</l>
+                        <l>In <hi>Ladies</hi> Laps, who bore great Powers,</l>
+                        <l>Which <hi>ſtrangely</hi> alter'd all their Meaſures,</l>
+                        <l>Such <hi>charms</hi> there are in hidden Treaſures.</l>
+                        <l>Thus <hi>Barrocading</hi> all Complaints,</l>
+                        <l>Drove <hi>Iehu</hi>-like, without Reſtraints</l>
+                        <l>Fill'd <hi>Town</hi> and <hi>Country</hi> ſoon ſo full,</l>
+                        <l>As <hi>ruin'd</hi> much, our Trade in <hi>Wooll:</hi>
+                        </l>
+                        <l>And ſuch <hi>great</hi> Stocks of <hi>Wooll</hi> and <hi>Cloths,</hi>
+                        </l>
+                        <l>Were hoarded up, and eat by <hi>Moths,</hi>
+                        </l>
+                        <l>Made <hi>Clothiers</hi> all, and <hi>Growers</hi> grumble,</l>
+                        <l>When Cloathes and Fleeces o'r they tumbl'd.</l>
+                        <l>And further, miſchiefs to prevent,</l>
+                        <l>
+                           <hi>Complaint</hi> was made in Parliament:</l>
+                        <l>And 'cauſe the <hi>Wooll,</hi> ſo near affected,</l>
+                        <l>This <hi>Salvo</hi> for't was then projected,</l>
+                        <l>That ſince the Living would not bear it,</l>
+                        <l>They ſhould, when <hi>dead,</hi> be forc'd to wear it;</l>
+                        <l>This help'd in part, but the <hi>Grand Ill</hi>
+                        </l>
+                        <l>Remains upon the Kingdom ſtill.</l>
+                        <l>Yet this our <hi>Ladies</hi> ſo offended,</l>
+                        <l>As all our Female Sex contended,</l>
+                        <l>And <hi>fain</hi> would had this <hi>Act</hi> rejected,</l>
+                        <l>But then their Councels were neglected,</l>
+                        <l>And Time has reconcil'd it ſo,</l>
+                        <l>To this <hi>Wooll Act</hi> they're now no Foe:</l>
+                        <l>So that from <hi>Ladies</hi> great, to Skullion,</l>
+                        <l>All buried lay in our own <hi>Woollen.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>And <hi>happy</hi> thrice would <hi>England</hi> be,</l>
+                        <l>If, while their Living, we could ſee,</l>
+                        <l>Our <hi>noble Ladies</hi> but beginning,</l>
+                        <l>To wear our <hi>Wooll</hi> of <hi>fineſt</hi> Spinning,</l>
+                        <l>Or in ſuch <hi>Silks</hi> our Workmen make,</l>
+                        <l>For which our <hi>Merchants</hi> Cloth do take,</l>
+                        <l>Which ſoon wou'd bring them in ſuch faſhion,</l>
+                        <l>As they'd be worn throughout this Nation,</l>
+                        <l>By all <hi>Degrees,</hi> and <hi>Sex,</hi> and <hi>Ages,</hi>
+                        </l>
+                        <l>From higheſt <hi>Peers</hi> to loweſt <hi>Pages;</hi>
+                        </l>
+                        <l>Nor would the meaneſt <hi>Trull</hi> or <hi>Beſſes,</hi>
+                        </l>
+                        <l>Delight to wear theſe <hi>Indian</hi> Dreſſes,</l>
+                        <l>Which certainly wou'd <hi>Profit</hi> bring,</l>
+                        <l>To <hi>them,</hi> their <hi>Tenants,</hi> and our <hi>King,</hi>
+                        </l>
+                        <l>And <hi>Heavn's</hi> Bleſſings in the bargain,</l>
+                        <l>Becauſe they'll keep our <hi>Poor</hi> from ſtarving,</l>
+                        <l>For they wou'd ſoon be then employ'd,</l>
+                        <l>Our <hi>Money</hi> too at <hi>Home</hi> wou'd 'bide,</l>
+                        <l>And <hi>happy</hi> then both <hi>great</hi> and <hi>ſmall,</hi>
+                        </l>
+                        <l>With Mirth in <hi>Parlour,</hi> and in <hi>Hall,</hi>
+                        </l>
+                        <l>When thus, with Plenty, <hi>Beards</hi> wagg all.</l>
+                     </lg>
+                  </div>
+                  <div type="epilogue">
+                     <head>EPILOGUE.</head>
+                     <lg>
+                        <l>AND now this <hi>Tale,</hi> thus far being ended,</l>
+                        <l>Methinks I ſee ſome <hi>Folks</hi> offended,</l>
+                        <l>And 'gainſt this <hi>Dogrel</hi> Poet rail,</l>
+                        <l>Becauſe he've told ſo <hi>plain</hi> a Tale,</l>
+                        <l>And New and Old <hi>Stock,</hi> Jobbing Throng,</l>
+                        <l>
+                           <hi>Crying</hi> it down, be't <hi>right</hi> or <hi>wrong;</hi>
+                        </l>
+                        <l>But if they do, and away fling 'em,</l>
+                        <l>'Tis a great Sign, they're <hi>Truths</hi> that ſting 'em.</l>
+                        <l>But let them ſpend their <hi>Lungs,</hi> and hollow,</l>
+                        <l>Such <hi>bluſtring</hi> Sparks he needs not value,</l>
+                        <l>Since all his <hi>aim,</hi> and his <hi>deſigns,</hi>
+                        </l>
+                        <l>Are to beat down their <hi>Indian</hi> Blinds,</l>
+                        <l>That all <hi>true Engliſh Men</hi> may ſee,</l>
+                        <l>What <hi>cauſe,</hi> their real Miſery,</l>
+                        <l>That ſo they may prevent their <hi>ruin,</hi>
+                        </l>
+                        <l>And ſave this <hi>Nation</hi> from <hi>undoing:</hi>
+                        </l>
+                        <l>But if they ſtill will ſhut their eyes,</l>
+                        <l>And <hi>demonſtrations</hi> plain deſpiſe;</l>
+                        <l>And if his <hi>Tale</hi> ſhall be rejected,</l>
+                        <l>Or if this <hi>Cauſe</hi> be ſtill neglected,</l>
+                        <l>He only this has more to ſay,</l>
+                        <l>That he can <hi>ſhift</hi> as well as they,</l>
+                        <l>And that he writ this, not for Pay.</l>
+                     </lg>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON:</hi> Printed, and are to be ſold by <hi>A Baldwin</hi> in <hi>Warwick-Lane.</hi> 1699</p>
+                  <pb facs="tcp:55261:16"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
